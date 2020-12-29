@@ -15,13 +15,13 @@ New York, NY 10032, USA
 
 Email: sm4857@cumc.columbia.edu
 
-### ACADEMIC POSITION
+### Academic Position
  
    - _Postdoc (2019-now), Department of Biostatistics, Columbia University_   
        - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
        
 
-### EDUCATION
+### Education
 
    - _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
        - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
@@ -30,7 +30,7 @@ Email: sm4857@cumc.columbia.edu
    - _B.S. in Mathematics (2009-2014), Department of Mathematics, Sichuan University_
    
  
-### EXPERIENCE
+### Experience
 
   - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
   - _Biostatistics Summer Intern (2017), Mayo Clinic_  
@@ -40,7 +40,7 @@ Email: sm4857@cumc.columbia.edu
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
 
 
-### LEADERSHIP EXPERIENCE
+### Leadership Experience
 
   - President (2017-2018), Chinese Students and Scholars Association at University of Rochester
 
