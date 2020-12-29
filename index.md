@@ -13,7 +13,7 @@ order: 1
 722 West 168th Street, 6th Fl. \\
 New York, NY 10032, USA
 
-Email: sm4857 [at] cumc.columbia.edu
+Email: sm4857@cumc.columbia.edu
 
 ### News:
 
