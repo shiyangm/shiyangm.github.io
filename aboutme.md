@@ -22,6 +22,7 @@ title: About me
 
   - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
   - _Biostatistics Summer Intern (2017), Mayo Clinic_  
+     - Supervisor: [Dr. Lindsay Renfro](https://keck.usc.edu/faculty-search/lindsay-a-renfro/)
   - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
        - Applied Linear Regression (BST 464, 2015 Fall)
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
