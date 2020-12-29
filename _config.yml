@@ -39,10 +39,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sm4857@cumc.columbia.edu"
-  facebook: deanattali
-  github: daattali
-  linkedin: daattali
-  ORCID: "https://orcid.org/0000-0002-4423-5798"
+  #facebook: deanattali
+  github: shiyangm
+  linkedin: shiyang-ma
+  ORCID: 0000-0002-4423-5798
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
