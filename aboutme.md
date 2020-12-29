@@ -20,9 +20,9 @@ title: About me
  
 ### EXPERIENCE
 
-  - Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester
-  - Biostatistics Summer Intern (2017), Mayo Clinic  
-  - Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester
+  - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
+  - _Biostatistics Summer Intern (2017), Mayo Clinic_  
+  - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
        - Applied Linear Regression (BST 464, 2015 Fall)
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
 
