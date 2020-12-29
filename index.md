@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tianying Wang
-subtitle: Assistant Professor, Center for Statistical Science, Tsinghua University
+title: Shiyang Ma
+subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia University
 use-site-title: true
 order: 1
 ---
@@ -9,11 +9,12 @@ order: 1
 
 
 ### Contact:
-[Center for Statistical Science](http://www.stat.tsinghua.edu.cn/about/)  
-[Tsinghua University](https://www.tsinghua.edu.cn/)   
-Beijing, 100084, China   
+[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  
+[Columbia University](https://www.columbia.edu/)   
+722 West 168th Street, 6th Fl. \\
+New York, NY 10032, USA
 
-Email: tianyingw [at] tsinghua.edu.cn
+Email: sm4857 [at] cumc.columbia.edu
 
 ### News:
 
@@ -24,11 +25,3 @@ Email: tianyingw [at] tsinghua.edu.cn
 - **March 2020**: Won competitive travel award of the **[ENAR 2020 Fostering Diversity in Biostatistics Workshop](https://www.enar.org/meetings/FosteringDiversity/)** (rescheduled to 2021 due to COVID-19).
 
 - **November 2019**: A manuscript on **Integrated Quantile RAnk Test (iQRAT) for heterogeneous joint effect of rare and common variants in sequencing studies** is now available on [arXiv](https://arxiv.org/abs/1910.10102).
-
-- **October 2019**: A manuscript on **Gaussian Processes with Errors in Variables: theory and computation** is now available on [arXiv](https://arxiv.org/abs/1910.06235).
-
-- **September 2019**: A manuscript on **Improved semiparametric analysis of polygenic gene-environment interactions in case-control studies** is now available on [arXiv](https://arxiv.org/abs/1909.07501).
-
-- **August 2019**: Won competitive travel award of the **[2019 NISS Writing Workshop for Junior Researchers at JSM](https://www.niss.org/events/2019-niss-writing-workshop-junior-researchers-jsm)**.
-
-- **July 2019**: Won competitive travel award of the **[2019 IMS New Researchers Conference](https://imstat.org/meetings-calendar/21st-meeting-of-new-researchers-in-statistics-and-probability/)**.
