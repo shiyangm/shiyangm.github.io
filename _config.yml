@@ -14,11 +14,10 @@ author: Shiyang Ma
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
-  #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
+  Publications: "publications"
+  Software: "software"
 
 # --- Logo --- #
 
