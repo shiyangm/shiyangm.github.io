@@ -8,15 +8,19 @@
 # Name of website
 title: Shiyang Ma
 
+# Short description of your site
+description: Ph.D. in Statistics
+
 # Your name to show in the footer
 author: Shiyang Ma
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "https://shiyangm.github.io/"
   About Me: "aboutme"
   Publications: "publications"
+  Research: "research"
   Software: "software"
 
 # --- Logo --- #
