@@ -11,4 +11,4 @@ title: Software
 
 - _Contributed:_
 
-  - [GS3DKViz](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock): R-package for visualization of the promoter-enhancer link data for the significant genes in the 3D analyses.
+  - [GS3DKViz](https://github.com/Iuliana-Ionita-Laza/GS3DKViz): R-package for visualization of the promoter-enhancer link data for the significant genes in the 3D analyses.
