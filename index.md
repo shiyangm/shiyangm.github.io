@@ -39,13 +39,11 @@ Email: sm4857@cumc.columbia.edu
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
 
 
-### LEADERSHIP EXPERIENCE
+#### LEADERSHIP EXPERIENCE
 
   - President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
 
-
-### SELECTED AWARDS
-
+#### SELECTED AWARDS
     - Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018) 
     - Promising Academic Leader, Student academic leadership award, UP-STAT (2018) 
     - Honorable Mention of the Mathematical Contest In Modeling, USA (2012)
