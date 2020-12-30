@@ -13,16 +13,17 @@ New York, NY 10032, USA
 
 Email: sm4857@cumc.columbia.edu
 
-### RESEARCH  INTEREST
-
-I work in **statistical genetics**, **clinical trials**, **adaptive designs** and **repeated measurements**. My research interests are in statistical and computational methods for the analysis of gene-based association tests and whole-genome sequencing studies. Particularly, I am interested in interpreting the functions of large number of disease-associated variants in the noncoding genome integrating enhancer-target gene data and the spatial structure for human genomes (high-throughput chromosome conformation capture techniques, e.g., Hi-C data). Besides, I am also interested in repeating the multiple pre-post treatment measurements in randomized clinical trials and adaptive designs for dose-response studies. 
-
 
 ### ACADEMIC POSITION
  
    - _Postdoc (2019-now), Department of Biostatistics, Columbia University_   
-       - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)       
+       - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
+       
+       
+### RESEARCH  INTEREST
 
+I work in **statistical genetics**, **clinical trials**, **adaptive designs** and **repeated measurements**. My research interests are in statistical and computational methods for the analysis of gene-based association tests and whole-genome sequencing studies. Particularly, I am interested in interpreting the functions of large number of disease-associated variants in the noncoding genome integrating enhancer-target gene data and the spatial structure for human genomes (high-throughput chromosome conformation capture techniques, e.g., Hi-C data). Besides, I am also interested in repeating the multiple pre-post treatment measurements in randomized clinical trials and adaptive designs for dose-response studies. 
+     
 
 ### EDUCATION
 
