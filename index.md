@@ -8,16 +8,21 @@ order: 1
 
 [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  
 [Columbia University](https://www.columbia.edu/)   
-722 West 168th Street, 6th Fl. \\
+722 West 168th Street, 6th Fl. 
 New York, NY 10032, USA
 
 Email: sm4857@cumc.columbia.edu
 
+### RESEARCH  INTEREST
+
+I work in **statistical genetics**, **clinical trials**, **adaptive designs** and **repeated measurements**. My research interests are in statistical and computational methods for the analysis of gene-based association tests and whole-genome sequencing studies. Particularly, I am interested in interpreting the functions of large number of disease-associated variants in the noncoding genome integrating enhancer-target gene data and the spatial structure for human genomes (high-throughput chromosome conformation capture techniques, e.g., Hi-C data). Besides, I am also interested in repeating the multiple pre-post treatment measurements in randomized clinical trials and adaptive designs for dose-response studies. 
+
+
 ### ACADEMIC POSITION
  
    - _Postdoc (2019-now), Department of Biostatistics, Columbia University_   
-       - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)
-       
+       - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)       
+
 
 ### EDUCATION
 
@@ -38,9 +43,30 @@ Email: sm4857@cumc.columbia.edu
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
 
 
+### SELECTED TALKS
+
+- Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2019）
+''Adaptive dose-response studies with generalized multiple contrast tests.''
+
+- 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada（08/2018）
+''Does it Pay to Repeat the Baseline?''
+
+- Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2018)
+''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
+
+- International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017)
+''The 2017 ISCE JTpeak Initiative.''
+
+
+### JOURNAL REVIEW
+
+_Genome Biology_, _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
+
+
 ### LEADERSHIP EXPERIENCE
 
   - President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
+  
 
 ### SELECTED AWARDS
     - Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018) 
