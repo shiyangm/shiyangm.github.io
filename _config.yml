@@ -19,7 +19,7 @@ author: Shiyang Ma
 navbar-links:
   Home: "https://shiyangm.github.io/"
   Publications: "publications"
-  Research: "research"
+  #Research: "research"
   Software: "software"
 
 # --- Logo --- #
