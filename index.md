@@ -6,8 +6,8 @@ use-site-title: true
 order: 1
 ---
 
-[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  
-[Columbia University](https://www.columbia.edu/)   
+[Columbia University](https://www.columbia.edu/)
+[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)
 722 West 168th Street, 6th Fl. 
 New York, NY 10032, USA
 
