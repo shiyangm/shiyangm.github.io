@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2020). "A unified knockoff framework for gene-based testing with joint analysis of coding and regulatory variation". _submitted_.
+- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2020). "A unified knockoff framework for gene-based testing with joint analysis of coding and regulatory variation". _Submitted_. [GeneScan3DKnock webpage.](http://www.funlda.com/gs3d)
 
 - **Ma, S.** and McDermott, M. P. (2020+). "Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials". _In progress_.
 
