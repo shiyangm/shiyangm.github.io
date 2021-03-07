@@ -16,7 +16,7 @@ Email: sm4857@cumc.columbia.edu
 
 ### ACADEMIC POSITION
  
-   - _Postdoc (2019-now), Department of Biostatistics, Columbia University_   
+   - _Postdoctoral Research Scientist (2019-now), Department of Biostatistics, Columbia University_   
        - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
        
        
