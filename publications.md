@@ -9,7 +9,7 @@ title: Publications
 
 - **Ma, S.** and Oakes, D. (2021+). "The Advantages of Repeating the Baselines in Randomized Clinical Trials". _In progress_.
 
-- Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2020). "If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection". _Infection Control & Hospital Epidemiology_. _In press_.
+- Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2020). [<ins>"If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection".</ins>](https://pubmed.ncbi.nlm.nih.gov/33888164/) _Infection Control & Hospital Epidemiology_, 1-5.
 
 - **Ma, S.** and McDermott, M. P. (2020). [<ins>"Generalized multiple contrast tests in dose-response studies".</ins>](https://doi.org/10.1002/sim.8444) _Statistics in Medicine_, **39**, 757-772.
 
