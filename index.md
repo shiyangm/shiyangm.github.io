@@ -60,7 +60,7 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 ### JOURNAL REVIEW
 
-_Genome Biology_, _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
+_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
 
 
 ### LEADERSHIP EXPERIENCE
