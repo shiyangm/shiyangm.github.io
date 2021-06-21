@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). "Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes". _Submitted_. [<ins>Applications to UK Biobank.</ins>](http://www.funlda.com/gs3d)
+- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). "Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes". _Under revision_. [<ins>Applications to UK Biobank.</ins>](http://www.funlda.com/gs3d)
 
-- **Ma, S.** and McDermott, M. P. (2021). [<ins>"Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".</ins>](https://arxiv.org/abs/2102.10434) _Submitted_.
+- **Ma, S.** and McDermott, M. P. (2021). [<ins>"Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".</ins>](https://arxiv.org/abs/2102.10434) _Under revision_.
 
 - **Ma, S.** and Oakes, D. (2021+). "The Advantages of Repeating the Baselines in Randomized Clinical Trials". _In progress_.
 
