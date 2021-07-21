@@ -22,7 +22,7 @@ Email: sm4857@cumc.columbia.edu
        
 ### RESEARCH  INTEREST
 
-I work in **statistical genomics**, **clinical trials** and **adaptive designs**. I am particularly interested in developing statistical and computational methods for the analysis of genetic and functional genomics data. I developed an improved gene-based testing by integrating long-range chromatin interactions and knockoff statistics. I am also interested in the incorporation of 3-D chromatin interaction profiles (cell-type specific Hi-C data for human genomes) of genome-wide association studies. Besides, I also work on longitudinal analysis of multiple pre- and post-treatment measurements in randomized clinical trials and adaptive designs for dose-response studies.
+I work in **statistical genomics**, **clinical trials** and **adaptive designs**. I am particularly interested in developing statistical and computational methods for the analysis of genetic and functional genomics data. I developed powerful gene-based testing by integrating long-range chromatin interactions (e.g., cell-type specific Hi-C data for human genomes) and knockoff genotype. I am also insterested in adaptive designs for dose-response studies in clinical trials.
      
 
 ### EDUCATION
