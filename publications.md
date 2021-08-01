@@ -9,7 +9,7 @@ title: Publications
 
 - **Ma, S.** and McDermott, M. P. (2021). [<ins>"Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".</ins>](https://arxiv.org/abs/2102.10434) _Submitted_.
 
-- Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2020). [<ins>"If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection".</ins>](https://pubmed.ncbi.nlm.nih.gov/33888164/) _Infection Control & Hospital Epidemiology_, 1-5. Epub ahead of print.
+- Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). [<ins>"If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection".</ins>](https://pubmed.ncbi.nlm.nih.gov/33888164/) _Infection Control & Hospital Epidemiology_, **23**, 1-5.
 
 - **Ma, S.** and McDermott, M. P. (2020). [<ins>"Generalized multiple contrast tests in dose-response studies".</ins>](https://doi.org/10.1002/sim.8444) _Statistics in Medicine_, **39**, 757-772.
 
