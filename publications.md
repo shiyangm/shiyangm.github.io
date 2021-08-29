@@ -5,7 +5,9 @@ title: Publications
 
 - He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) "Genome-wide analysis of common and rare variants via multiple knockoffs at biobank-scale: methods and applications". _Submitted_.
 
-- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Submitted_. [**Applications to UK Biobank.**](http://www.funlda.com/gs3d) [**GeneScan3DKnock R package.**](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
+- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Submitted_. 
+   - [Applications to UK Biobank.](http://www.funlda.com/gs3d) 
+   - [GeneScan3DKnock R package.](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 
 - **Ma, S.** and McDermott, M. P. (2021). ["Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".](https://arxiv.org/abs/2102.10434) _Submitted_.
 
