@@ -20,7 +20,7 @@ navbar-links:
   Home: "https://shiyangm.github.io/"
   Publications: "publications"
   #Research: "research"
-  Software: "software"
+  #Software: "software"
 
 # --- Logo --- #
 
