@@ -18,7 +18,7 @@ author: Shiyang Ma
 
 navbar-links:
   Home: "https://shiyangm.github.io/"
-  Publications: "publications"
+  #Publications: "publications"
   #Research: "research"
   #Software: "software"
 
