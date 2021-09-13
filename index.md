@@ -51,6 +51,9 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 ### SELECTED TALKS
 
+- The 34th New England Statistics Symposium (NESS); Hybrid conference (09/2021）
+''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.'' (Invited talk)
+
 - Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2019）
 ''Adaptive dose-response studies with generalized multiple contrast tests.''
 
