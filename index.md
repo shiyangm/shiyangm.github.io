@@ -5,12 +5,6 @@ subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia
 use-site-title: true
 order: 1
 ---
-
-[Columbia University](https://www.columbia.edu/)
-[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)
-722 West 168th Street, 6th Fl. 
-New York, NY 10032, USA
-
 Email: sm4857@cumc.columbia.edu
 
 
