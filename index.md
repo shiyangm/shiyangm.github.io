@@ -78,7 +78,7 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
 ### EXPERIENCE
 
   - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
-  - _President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
+  - _President (2017-2018), Chinese Students and Scholars Association at University of Rochester_ 
   - _Biostatistics Summer Intern (2017), Mayo Clinic_  
   - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
        - Applied Linear Regression (BST 464, 2015 Fall)
