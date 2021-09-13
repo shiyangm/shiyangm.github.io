@@ -9,18 +9,15 @@ Email: sm4857@cumc.columbia.edu
 
 
 ### ACADEMIC POSITION
- 
    - _Postdoctoral Research Scientist (2019-now), Department of Biostatistics, Columbia University_   
        - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
        
        
 ### RESEARCH  INTEREST
-
 I work in **statistical genomics**, **clinical trials** and **adaptive designs**. I am particularly interested in developing statistical and computational methods for the analysis of genetic and functional genomics data. I develop a powerful gene-based testing by integrating long-range chromatin interactions (e.g., cell-type specific Hi-C data for human genomes) and knockoff genotype. I am also interested in adaptive dose-response studies for clinical trials.
 
 
 ### EDUCATION
-
    - _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
        - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
        - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
@@ -29,7 +26,6 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 
 ### PUBLICATION
-
 - He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) "Genome-wide analysis of common and rare variants via multiple knockoffs at biobank-scale: methods and applications". _Submitted_.
 
 - **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Submitted_. 
@@ -50,7 +46,6 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 
 ### SELECTED TALKS
-
 - The 34th New England Statistics Symposium (NESS); Hybrid conference (09/2021）
 ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.'' (Invited talk)
 
@@ -68,12 +63,10 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 
 ### JOURNAL REVIEW
-
 _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
 
 
 ### EXPERIENCE
-
   - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
   - _President (2017-2018), Chinese Students and Scholars Association at University of Rochester_ 
   - _Biostatistics Summer Intern (2017), Mayo Clinic_  
