@@ -76,3 +76,5 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
 ''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
      - Gold Medal, Best student research awards, Theory and methodology
      - Promising Academic Leader, Student academic leadership award
+- International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017) <br />
+Contributed talk: The 2017 ISCE ``JTpeak'' Initiative.    
