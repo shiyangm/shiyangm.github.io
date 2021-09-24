@@ -63,16 +63,16 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 - Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2018)
 ''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
     - Gold Medal, Best student research awards, Theory and methodology
-    - Promising Academic Leader, Student academic leadership award
+    - Promising Academic Leader, Student academic leadership award     
     
-
-
 - International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017)
 ''The 2017 ISCE JTpeak Initiative.''
+
 
 ### JOURNAL REVIEW
 
 _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
+
 
 ### EXPERIENCE
 
