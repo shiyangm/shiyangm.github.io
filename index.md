@@ -68,6 +68,10 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 - International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017)
 ''The 2017 ISCE JTpeak Initiative.''
 
+### JOURNAL REVIEW
+
+_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
+
 ### EXPERIENCE
 
   - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
@@ -76,9 +80,3 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
   - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
        - Applied Linear Regression (BST 464, 2015 Fall)
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
-
-### JOURNAL REVIEW
-
-_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
-
-
