@@ -53,18 +53,14 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 - The 34th New England Statistics Symposium (NESS); Hybrid conference (10/2021）
 ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.'' (Invited talk)
-
 - Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2019）
 ''Adaptive dose-response studies with generalized multiple contrast tests.''
-
 - 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada（08/2018）
 ''Does it Pay to Repeat the Baseline?''
-
 - Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2018)
 ''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
    - Gold Medal, Best student research awards, Theory and methodology
    - Promising Academic Leader, Student academic leadership award
-    
 - International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017)
 ''The 2017 ISCE JTpeak Initiative.''
 
