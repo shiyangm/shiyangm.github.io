@@ -51,7 +51,7 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 ### SELECTED TALKS
 
-- The 34th New England Statistics Symposium (NESS); Hybrid conference (09/2021）
+- The 34th New England Statistics Symposium (NESS); Hybrid conference (10/2021）
 ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.'' (Invited talk)
 
 - Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2019）
@@ -62,15 +62,11 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 
 - Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2018)
 ''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
+   - Gold Medal, Best student research awards, Theory and methodology
+   - Promising Academic Leader, Student academic leadership award
 
 - International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017)
 ''The 2017 ISCE JTpeak Initiative.''
-
-
-### JOURNAL REVIEW
-
-_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
-
 
 ### EXPERIENCE
 
@@ -81,14 +77,8 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
        - Applied Linear Regression (BST 464, 2015 Fall)
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
 
+### JOURNAL REVIEW
 
-### SELECTED AWARDS
+_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
 
-    - Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018) 
-    - Promising Academic Leader, Student academic leadership award, UP-STAT (2018) 
-    - Honorable Mention of the Mathematical Contest In Modeling, USA (2012)
-    - Second Prize of National BeiDou-Cup Science and Technology Invention Contest, China (2012)
-    - Third Prize of National Engineering Mathematical Contest In Modeling, China  (2011)
-    - Third Prize in Sichuan province of National Mathematical Contest in Modeling (2011)
-    - The First Class of Individual Scholarship, Sichuan University (2011)
-    - The Second Class of Individual Scholarship, Sichuan University (2010)
+
