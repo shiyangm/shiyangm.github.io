@@ -49,23 +49,6 @@ I work in **statistical genomics**, **clinical trials** and **adaptive designs**
 - Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) ["An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval".](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _Journal of Electrocardiology_, **50**, 769-775.
 
 
-### SELECTED TALKS
-
-- The 34th New England Statistics Symposium (NESS); Hybrid conference (10/2021）
-''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.'' (Invited talk)
-
-- Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2019）
-''Adaptive dose-response studies with generalized multiple contrast tests.''
-
-- 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada（08/2018）
-''Does it Pay to Repeat the Baseline?''
-
-- Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2018)
-''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
-   - Gold Medal, Best student research awards, Theory and methodology
-   - Promising Academic Leader, Student academic leadership award
-
-
 ### JOURNAL REVIEW
 
 _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
@@ -79,3 +62,20 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
   - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
        - Applied Linear Regression (BST 464, 2015 Fall)
        - Computational Introduction to Statistics (DSC 262, 2016 Fall)
+
+
+### SELECTED TALKS
+
+- The 34th New England Statistics Symposium (NESS); Hybrid conference (10/2021）
+''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.'' (Invited talk)
+
+- Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2019）
+''Adaptive dose-response studies with generalized multiple contrast tests.''
+
+- 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada（08/2018）
+''Does it Pay to Repeat the Baseline?''
+
+- Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2018)
+''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
+     - Gold Medal, Best student research awards, Theory and methodology
+     - Promising Academic Leader, Student academic leadership award
