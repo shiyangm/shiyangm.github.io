@@ -36,7 +36,7 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
    - [Applications to UK Biobank.](http://www.funlda.com/gs3d) 
    - [GeneScan3DKnock R package.](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 
-- **Ma, S.** and McDermott, M. P. (2021). ["Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".](https://arxiv.org/abs/2102.10434) _Biometrical Journal_, accepted. 
+- **Ma, S.** and McDermott, M. P. (2021). ["Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".](https://arxiv.org/abs/2102.10434) _Biometrical Journal_, DOI: 10.1002/bimj.202100044.
 
 - Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection".](https://pubmed.ncbi.nlm.nih.gov/33888164/) _Infection Control & Hospital Epidemiology_, **23**, 1-5.
 
