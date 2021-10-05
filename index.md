@@ -34,7 +34,7 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
    - [Applications to UK Biobank.](http://www.funlda.com/gs3d) 
    - [GeneScan3DKnock R package.](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 
-- He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) "Genome-wide analysis of common and rare variants via multiple knockoffs at biobank-scale: methods and applications". American Journal of Human Genetics. accepted.
+- He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) "Genome-wide analysis of common and rare variants via multiple knockoffs at biobank-scale: methods and applications". _American Journal of Human Genetics_. accepted.
 
 - **Ma, S.** and McDermott, M. P. (2021). ["Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".](https://onlinelibrary.wiley.com/doi/10.1002/bimj.202100044) _Biometrical Journal_, 1–19. DOI: 10.1002/bimj.202100044
 
