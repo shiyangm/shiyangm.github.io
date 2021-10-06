@@ -38,7 +38,7 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
 
 - **Ma, S.** and McDermott, M. P. (2021). ["Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".](https://doi.org/10.1002/bimj.202100044) _Biometrical Journal_, 1–19. DOI: 10.1002/bimj.202100044
 
-- Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection".](https://pubmed.ncbi.nlm.nih.gov/33888164/) _Infection Control & Hospital Epidemiology_, **23**, 1-5.
+- Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection".](https://pubmed.ncbi.nlm.nih.gov/33888164/) _Infection Control & Hospital Epidemiology_, 1-5. doi:10.1017/ice.2020.1422
 
 - **Ma, S.** and McDermott, M. P. (2020). ["Generalized multiple contrast tests in dose-response studies".](https://doi.org/10.1002/sim.8444) _Statistics in Medicine_, **39**, 757-772.
 
