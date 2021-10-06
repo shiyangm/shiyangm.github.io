@@ -36,7 +36,7 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
 
 - He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) "Genome-wide analysis of common and rare variants via multiple knockoffs at biobank-scale: methods and applications". _American Journal of Human Genetics_. accepted.
 
-- **Ma, S.** and McDermott, M. P. (2021). ["Adaptive Dose-Response Studies to Establish Proof-of-Concept in Learning-Phase Clinical Trials".](https://doi.org/10.1002/bimj.202100044) _Biometrical Journal_, 1–19. doi:10.1002/bimj.202100044
+- **Ma, S.** and McDermott, M. P. (2021). ["Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials."](https://doi.org/10.1002/bimj.202100044) _Biometrical Journal_, 1–19. doi:10.1002/bimj.202100044
 
 - Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the Glove Fits: Hospital-wide Universal Gloving is associated with Improved Hand Hygiene and may reduce Clostridium difficile infection".](https://pubmed.ncbi.nlm.nih.gov/33888164/) _Infection Control & Hospital Epidemiology_, 1-5. doi:10.1017/ice.2020.1422
 
