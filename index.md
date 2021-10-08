@@ -8,19 +8,15 @@ order: 1
 Email: sm4857@cumc.columbia.edu
 
 
-### ACADEMIC POSITION
+### RESEARCH  INTEREST
+
+I work in **statistical genomics** and **clinical trials**. My major interest is in developing statistical and machine learning methods for the analysis of genetic data. I have developed a powerful gene-based testing by integrating long-range chromatin interactions (e.g., cell-type specific Hi-C data for human genomes) and knockoff genotype. I’m currently working on a gene-based association test for large-scale biobanks data. I am also interested in adaptive designs for clinical trials.
+
+
+### EDUCATION AND TRAINING
 
    - _Postdoctoral Research Scientist (2019-now), Department of Biostatistics, Columbia University_   
        - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
-       
-       
-### RESEARCH  INTEREST
-
-I work in **statistical genomics** and **clinical trials**. My major interest is in developing statistical and machine learning methods for the analysis of genetic data. I have developed a powerful gene-based testing by integrating long-range chromatin interactions (e.g., cell-type specific Hi-C data for human genomes) and knockoff genotype. I’m currently working on a gene-based association test for large-scale biobanks data with hundreds of thousands of individuals. I am also interested in adaptive designs for clinical trials.
-
-
-### EDUCATION
-
    - _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
        - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
        - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
@@ -30,8 +26,7 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
 
 ### PUBLICATIONS
 
-- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_. accepted.
-   -  Direct Submission
+- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_. accepted (Direct Submission).
    - [Applications to UK Biobank.](http://www.funlda.com/gs3d) 
    - [GeneScan3DKnock R package.](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 
@@ -50,21 +45,6 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
 - Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) ["An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval".](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _Journal of Electrocardiology_, **50**, 769-775.
 
 
-### JOURNAL REVIEW
-
-_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
-
-
-### EXPERIENCE
-
-  - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
-  - _President (2017-2018), Chinese Students and Scholars Association at University of Rochester_ 
-  - _Biostatistics Summer Intern (2017), Mayo Clinic_  
-  - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
-       - Applied Linear Regression (BST 464, 2015 Fall)
-       - Computational Introduction to Statistics (DSC 262, 2016 Fall)
-
-
 ### SELECTED TALKS
 
 - The 34th New England Statistics Symposium (NESS); Hybrid conference (10/2021）
@@ -79,3 +59,18 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
      - Promising Academic Leader, Student academic leadership award
 - International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017) 
 Contributed talk: The 2017 ISCE ``JTpeak'' Initiative.    
+
+
+### JOURNAL REVIEW
+
+_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
+
+
+### EXPERIENCE
+
+  - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
+  - _President (2017-2018), Chinese Students and Scholars Association at University of Rochester_ 
+  - _Biostatistics Summer Intern (2017), Mayo Clinic_  
+  - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
+       - Applied Linear Regression (BST 464, 2015 Fall)
+       - Computational Introduction to Statistics (DSC 262, 2016 Fall)
