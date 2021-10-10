@@ -13,7 +13,7 @@ Email: sm4857@cumc.columbia.edu
 I work in **statistical genomics** and **clinical trials**. My major interest is in developing statistical and machine learning methods for the analysis of genetic data. I have developed a powerful gene-based testing by integrating long-range chromatin interactions (e.g., cell-type specific Hi-C data for human genomes) and knockoff genotype. I’m currently working on a gene-based association test for large-scale biobanks data. I am also interested in adaptive designs for clinical trials.
 
 
-### EDUCATION AND TRAINING
+### TRAINING AND EDUCATION 
 
    - _Postdoctoral Research Scientist (2019-now), Department of Biostatistics, Columbia University_   
        - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
@@ -26,7 +26,7 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
 
 ### PUBLICATIONS
 
-- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_ of USA. accepted.
+- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_. accepted.
    - Direct Submission
    - [Applications to UK Biobank.](http://www.funlda.com/gs3d) 
    - [GeneScan3DKnock R package.](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
