@@ -26,7 +26,7 @@ I work in **statistical genomics** and **clinical trials**. My major interest is
 
 ### PUBLICATIONS
 
-- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences USA_. accepted.
+- **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_ USA. accepted.
    - [Applications to UK Biobank.](http://www.funlda.com/gs3d) 
    - [GeneScan3DKnock R package.](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 
