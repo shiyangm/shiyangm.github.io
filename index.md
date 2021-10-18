@@ -26,8 +26,9 @@ order: 1
 
 ### RESEARCH  INTEREST
 **statistical genomics**, **clinical trials** 
-* developing statistical and machine learning methods for the analysis of genetic data. 
-* adaptive designs for clinical trials.
+* developing statistical and machine learning methods for the analysis of genetic data
+* adaptive designs for clinical trials
+* currently working on gene-based association tests for large-scale biobanks data
 
 
 ### PUBLICATIONS
