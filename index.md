@@ -37,8 +37,6 @@ Email: sm4857@cumc.columbia.edu
 ### PUBLICATIONS
 
 - **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_ USA. accepted.
-   - [Applications to UK Biobank.](http://www.funlda.com/gs3d) 
-   - [GeneScan3DKnock R package.](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 
 - He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) "Genome-wide analysis of common and rare variants via multiple knockoffs at biobank-scale: methods and applications". _American Journal of Human Genetics_. accepted.
 
@@ -55,23 +53,27 @@ Email: sm4857@cumc.columbia.edu
 - Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) ["An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval".](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _Journal of Electrocardiology_, **50**, 769-775.
 
 
-### SELECTED TALKS
+### PRESENTATIONS
 
-- The 34th New England Statistics Symposium (NESS); Hybrid conference (10/2021）
-''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.'' (Invited talk)
-- Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2019）
-''Adaptive dose-response studies with generalized multiple contrast tests.''
-- 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada（08/2018）
-''Does it Pay to Repeat the Baseline?''
-- Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY (04/2018)
-''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies.''
-     - Gold Medal, Best student research awards, Theory and methodology
-     - Promising Academic Leader, Student academic leadership award
-- International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA (04/2017) 
-Contributed talk: The 2017 ISCE ``JTpeak'' Initiative.    
+- The 34th New England Statistics Symposium (NESS); Hybrid conference. ``Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
+- Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ``Adaptive dose-response studies with generalized multiple contrast tests'', April 2019.
+- 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada. ``Does it Pay to Repeat the Baseline?'' August 2018.
+- Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ``Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies,'' April 2018.
+- International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA. The 2017 ISCE ``JTpeak'' Initiative, April 2017.
 
+### SOFTWARE DEVELOPED
+
+- **GeneScan3DKnock**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
+   -  [https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
+-  **GeneScan3D - UK Biobank Gene-based Results**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
+   -  [http://www.funlda.com/gs3d](http://www.funlda.com/gs3d)
 
 ### JOURNAL REVIEW
 
 _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
 
+
+### AWARDS AND HONORS
+
+- Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018)
+- Promising Academic Leader, Student academic leadership award, UP-STAT (2018)
