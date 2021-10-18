@@ -6,6 +6,13 @@ use-site-title: true
 order: 1
 ---
 
+
+## RESEARCH  INTEREST
+**statistical genomics**, **clinical trials**
+* developing statistical and machine learning methods for the analysis of genetic data.
+* adaptive designs for clinical trials.
+
+
 ## EDUCATION 
 *  _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
        - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
@@ -21,12 +28,6 @@ order: 1
 * _President (2017-2018), Chinese Students and Scholars Association at University of Rochester_ 
 * _Biostatistics Intern (2017), Mayo Clinic_  
 * _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
-
-
-## RESEARCH  INTEREST
-**statistical genomics**, **clinical trials** 
-  -  developing statistical and machine learning methods for the analysis of genetic data. 
-  -  adaptive designs for clinical trials.
 
 
 ## PUBLICATIONS
