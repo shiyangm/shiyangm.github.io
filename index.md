@@ -5,14 +5,6 @@ subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia
 use-site-title: true
 order: 1
 ---
-**Email**: <br>
-sm4857@cumc.columbia.edu <br>
-
-**Address**: <br>
-Department of Biostatistics Columbia University<br>
-722 West 168th Street, R651 <br>
-New York, NY 10032, USA<br>
-
 
 ## EDUCATION 
 *  _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
@@ -63,3 +55,13 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
 ## AWARDS AND HONORS
 * Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018)
 * Promising Academic Leader, Student academic leadership award, UP-STAT (2018)
+
+## CONTACT
+**Email**: <br>
+sm4857@cumc.columbia.edu <br>
+
+**Address**: <br>
+Department of Biostatistics Columbia University<br>
+722 West 168th Street, R651 <br>
+New York, NY 10032, USA<br>
+
