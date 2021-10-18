@@ -5,10 +5,7 @@ subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia
 use-site-title: true
 order: 1
 ---
-Email: sm4857@cumc.columbia.edu
-
-Address: 722 West 168th Street, R651, New York, NY 10032, USA
-
+Address: 722 West 168th Street, R651, New York, NY 10032, USA      Email: sm4857@cumc.columbia.edu
 
 ### EDUCATION 
    - _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
@@ -16,7 +13,6 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
        - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
    - _M.A. in Statistics (2014-2015), Department of Biostatistics and Computational Biology, University of Rochester_    
    - _B.S. in Mathematics (2009-2014), Department of Mathematics, Sichuan University_
-
 
 ### EXPERIENCE
   - _Postdoctoral Research Scientist (2019-Present), Department of Biostatistics, Columbia University_   
@@ -26,12 +22,10 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
   - _Biostatistics Intern (2017), Mayo Clinic_  
   - _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
 
-
 ### RESEARCH  INTEREST
-**statistical genomics**, **clinical trials**
-- developing statistical and machine learning methods for the analysis of genetic data. 
-- adaptive designs for clinical trials.
-
+ **statistical genomics**, **clinical trials**
+   - developing statistical and machine learning methods for the analysis of genetic data. 
+   - adaptive designs for clinical trials.
 
 ### PUBLICATIONS
 - **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_ USA. accepted.
@@ -42,7 +36,6 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 - Andrzejewski, K. L., **Ma, S.**, Owens, A., Bull, M. T., Biglan, K. M., Kanchana, S., Mink, J. W., McDermott, M. P., Crane, B. T., Barbano, R. (2018) ["Alterations in vestibular function in individuals with cervical dystonia and the effects of botulinum toxin treatment".](https://doi.org/10.1016/j.baga.2018.05.001) _Basal Ganglia_, **13**, 1-6.
 - Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) ["Motor, cognitive, and functional declines contribute to a single progressive factor in early HD".](https://doi.org/10.1212/WNL.0000000000004743) _Neurology_, **89**, 2495-2502.
 - Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) ["An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval".](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _Journal of Electrocardiology_, **50**, 769-775.
-
 
 ### PRESENTATIONS
 - The 34th New England Statistics Symposium (NESS); Hybrid conference. ``Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
@@ -59,7 +52,6 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 
 ### JOURNAL REVIEW
 _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
-
 
 ### AWARDS AND HONORS
 - Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018)
