@@ -22,9 +22,9 @@ order: 1
 * _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
 
 ## RESEARCH  INTEREST
-**statistical genomics**, **clinical trials**
-  * developing statistical and machine learning methods for the analysis of genetic data. 
-  * adaptive designs for clinical trials.
+* **statistical genomics**, **clinical trials**
+  -  developing statistical and machine learning methods for the analysis of genetic data. 
+  -  adaptive designs for clinical trials.
 
 ## PUBLICATIONS
 * **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_ USA. accepted. 
