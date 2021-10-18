@@ -74,9 +74,10 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
 
 ### CONTACT
 **Email**: <br>
-sm4857@cumc.columbia.edu <br>
+sm4857@cumc.columbia.edu 
+
 **Address**: <br>
-Department of Biostatistics Columbia University<br>
+Department of Biostatistics Columbia University <br>
 722 West 168th Street, R651 <br>
-New York, NY 10032, USA<br>
+New York, NY 10032, USA
 
