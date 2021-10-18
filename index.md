@@ -32,8 +32,8 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 ### RESEARCH  INTEREST
 
 **statistical genomics**, **clinical trials**
-  - developing statistical and machine learning methods for the analysis of genetic data. 
-  - adaptive designs for clinical trials.
+- developing statistical and machine learning methods for the analysis of genetic data. 
+- adaptive designs for clinical trials.
 
 
 ### PUBLICATIONS
