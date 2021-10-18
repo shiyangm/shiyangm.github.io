@@ -59,11 +59,11 @@ New York, NY 10032. USA
 
 
 ### PRESENTATIONS
-* The 34th New England Statistics Symposium (NESS); Hybrid conference. ``Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
-* Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ``Adaptive dose-response studies with generalized multiple contrast tests'', April 2019.
-* 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada. ``Does it Pay to Repeat the Baseline?'' August 2018.
-* Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ``Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies,'' April 2018.
-* International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA. The 2017 ISCE ``JTpeak'' Initiative, April 2017.
+* The 34th New England Statistics Symposium (NESS); Hybrid conference. ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
+* Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ''Adaptive dose-response studies with generalized multiple contrast tests'', April 2019.
+* 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada. ''Does it Pay to Repeat the Baseline?'' August 2018.
+* Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies,'' April 2018.
+* International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA. The 2017 ISCE ''JTpeak'' Initiative, April 2017.
 
 
 ### SOFTWARE DEVELOPED
