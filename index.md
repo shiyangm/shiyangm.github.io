@@ -11,7 +11,6 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 
 
 ### EDUCATION 
-
    - _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
        - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
        - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
@@ -20,7 +19,6 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 
 
 ### EXPERIENCE
-
   - _Postdoctoral Research Scientist (2019-Present), Department of Biostatistics, Columbia University_   
        - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
   - _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
@@ -30,14 +28,12 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 
 
 ### RESEARCH  INTEREST
-
 **statistical genomics**, **clinical trials**
 - developing statistical and machine learning methods for the analysis of genetic data. 
 - adaptive designs for clinical trials.
 
 
 ### PUBLICATIONS
-
 - **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_ USA. accepted.
 
 - He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) "Genome-wide analysis of common and rare variants via multiple knockoffs at biobank-scale: methods and applications". _American Journal of Human Genetics_. accepted.
@@ -56,7 +52,6 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 
 
 ### PRESENTATIONS
-
 - The 34th New England Statistics Symposium (NESS); Hybrid conference. ``Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
 - Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ``Adaptive dose-response studies with generalized multiple contrast tests'', April 2019.
 - 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada. ``Does it Pay to Repeat the Baseline?'' August 2018.
@@ -64,18 +59,15 @@ Address: 722 West 168th Street, R651, New York, NY 10032, USA
 - International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA. The 2017 ISCE ``JTpeak'' Initiative, April 2017.
 
 ### SOFTWARE DEVELOPED
-
 - **GeneScan3DKnock**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
    -  [https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 -  **GeneScan3D - UK Biobank Gene-based Results**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
    -  [http://www.funlda.com/gs3d](http://www.funlda.com/gs3d)
 
 ### JOURNAL REVIEW
-
 _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
 
 
 ### AWARDS AND HONORS
-
 - Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018)
 - Promising Academic Leader, Student academic leadership award, UP-STAT (2018)
