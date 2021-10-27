@@ -35,7 +35,7 @@ New York, NY 10032. USA
 ### RESEARCH  INTEREST
 * **statistical genomics**
    - developing statistical and machine learning methods for the analysis of genetic data
-   - currently working on gene-based association tests for large-scale biobanks data
+   - current project: Integrative gene-based association tests with multiple knockoffs for quantitative and binary traits in UK Biobank
 * **clinical trials** 
    - adaptive designs for clinical trials
 
