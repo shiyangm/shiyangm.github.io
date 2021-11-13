@@ -43,7 +43,7 @@ New York, NY 10032. USA
 ### PUBLICATIONS
 * **Ma, S.**, Dalgleish, J. L ., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://www.medrxiv.org/content/10.1101/2021.07.14.21260405v1) _Proceedings of the National Academy of Sciences_ USA. accepted.
 
-* He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Butler, R., Longo, F., Tang, H., Mormino, E., Wyss-Coray, T., Greicius, M. and Ionita-Laza, I. (2021) ["Genome-wide analysis of common and rare variants via multiple knockoffs at biobank scale, with an application to Alzheimer disease genetics."](https://doi.org/10.1016/j.ajhg.2021.10.009) _The American Journal of Human Genetics_, **108**, 1-18.
+* He, Z.\*, Guen, Y. L.\*, Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Belloy, M. E., Butler, R. R., Longo, F. M., Tang, H., Mormino, E. C., Wyss-Coray, T., Greicius, M. D. and Ionita-Laza, I. (2021) ["Genome-wide analysis of common and rare variants via multiple knockoffs at biobank scale, with an application to Alzheimer disease genetics."](https://doi.org/10.1016/j.ajhg.2021.10.009) _The American Journal of Human Genetics_, **108**, 1-18.
 
 * **Ma, S.** and McDermott, M. P. (2021). ["Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials."](https://doi.org/10.1002/bimj.202100044) _Biometrical Journal_, 1–19. doi:10.1002/bimj.202100044 
 
