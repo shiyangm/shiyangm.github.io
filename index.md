@@ -7,14 +7,6 @@ order: 1
 ---
 
 
-### CONTACT
-Department of Biostatistics, Columbia University <br>
-722 West 168th Street, R651 <br>
-New York, NY 10032. USA
-
-**Email**: sm4857@cumc.columbia.edu 
-
-
 ### EDUCATION 
 *  _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
     - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
@@ -83,3 +75,10 @@ _Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trial
 * Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018)
 * Promising Academic Leader, Student academic leadership award, UP-STAT (2018)
 
+
+### CONTACT
+Department of Biostatistics, Columbia University <br>
+722 West 168th Street, R651 <br>
+New York, NY 10032. USA
+
+**Email**: sm4857@cumc.columbia.edu 
