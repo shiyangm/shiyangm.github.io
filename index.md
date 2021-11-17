@@ -27,7 +27,7 @@ order: 1
 ### RESEARCH  INTEREST
 * **statistical genomics**
    - developing statistical and machine learning methods for the analysis of genetic data
-   - current project: Integrative gene-based association tests with multiple knockoffs for quantitative and binary traits in UK Biobank
+   - Working paper: Integrative gene-based association analysis of biobank-scale whole-genome sequencing studies
 * **clinical trials** 
    - adaptive designs for clinical trials
 
