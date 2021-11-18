@@ -27,7 +27,7 @@ order: 1
 ### RESEARCH  INTEREST
 * **statistical genomics**
    - developing statistical and machine learning methods for the analysis of genetic data
-   - Working paper: Integrative gene-based association analysis of biobank-scale whole-genome sequencing studies
+   - Working paper: Gene-based association analysis of biobank-scale data via knockoffs
 * **clinical trials** 
    - adaptive designs for clinical trials
 
