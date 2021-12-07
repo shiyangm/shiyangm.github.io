@@ -33,7 +33,7 @@ order: 1
 
 
 ### PUBLICATIONS
-* He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2021) Summary statistics knockoff inference empowers identification of putative causal variants in genome-wide association studies. Submitted.
+* He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2021) ["Summary statistics knockoff inference empowers identification of putative causal variants in genome-wide association studies".](https://doi.org/10.1101/2021.12.06.471440) Submitted.
  
 * **Ma, S.**, Dalgleish, J., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W. K., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://doi.org/10.1073/pnas.2105191118) _Proceedings of the National Academy of Sciences of the United States of America_, **118**, e2105191118.
 
