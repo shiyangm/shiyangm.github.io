@@ -27,7 +27,7 @@ order: 1
 ### RESEARCH  INTEREST
 * **statistical genomics**
    - developing statistical and machine learning methods for the analysis of genetic data
-   - Working paper: Gene-based association analysis of biobank-scale data via knockoffs
+   - Working paper: Gene-based association analysis of biobank-scale data via knockoffs: applications to UK Biobank
 * **clinical trials** 
    - adaptive designs for clinical trials
 
