@@ -8,11 +8,11 @@ order: 1
 
 
 ### EDUCATION 
-*  _Ph.D. in Statistics (2015-2019), Department of Biostatistics and Computational Biology, University of Rochester_  
+*  _Ph.D. in Statistics (2019), Department of Biostatistics and Computational Biology, University of Rochester_  
     - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
     - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
-*  _M.A. in Statistics (2014-2015), Department of Biostatistics and Computational Biology, University of Rochester_    
-*  _B.S. in Mathematics (2009-2014), Department of Mathematics, Sichuan University_
+*  _M.A. in Statistics (2015), Department of Biostatistics and Computational Biology, University of Rochester_    
+*  _B.S. in Mathematics (2014), Department of Mathematics, Sichuan University_
 
 
 ### EXPERIENCE
