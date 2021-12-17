@@ -68,7 +68,7 @@ order: 1
 
 
 ### JOURNAL REVIEW
-_Journal of Applied Statistics_, _Biostatistics & Epidemiology_, _Clinical Trials: Journal of the Society for Clinical Trials_
+_Journal of Applied Statistics_, _Clinical Trials: Journal of the Society for Clinical Trials_, _Statistics in Biopharmaceutical Research_, _Biostatistics & Epidemiology_
 
 
 ### AWARDS AND HONORS
