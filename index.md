@@ -27,7 +27,7 @@ order: 1
 ### RESEARCH  INTEREST
 * **statistical genetics**
    - developing statistical and computational methods for the analysis of genetic data
-   - Working paper: Gene-based association analysis of biobank-scale data via knockoffs: applications to UK Biobank
+   - Working paper: Causal gene prioritization via knockoff analysis of biobank-scale data with applications to UK Biobank
 * **clinical trials** 
    - dose-response studies and adaptive designs
 
