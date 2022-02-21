@@ -32,6 +32,8 @@ order: 1
 
 
 ### PUBLICATIONS
+* **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2022). "Causal gene prioritization via knockoff analysis of biobank-scale data with applications to UK Biobank". 
+
 * He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) ["Summary statistics knockoff inference empowers identification of putative causal variants in genome-wide association studies".](https://doi.org/10.1101/2021.12.06.471440) Submitted.
   
 * **Ma, S.** and McDermott, M. P. (2022). ["Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials".](https://doi.org/10.1002/bimj.202100044) _Biometrical Journal_, **64**, 146-164.
@@ -60,6 +62,8 @@ order: 1
 
 
 ### SOFTWARE DEVELOPED
+* **BIGKnock**: An R package of performing biobank-scale gene-based association test via knockoffs.
+   -  [https://github.com/Iuliana-Ionita-Laza/BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)
 * **GeneScan3DKnock**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
    -  [https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
 *  **GeneScan3D - UK Biobank Gene-based Results**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
