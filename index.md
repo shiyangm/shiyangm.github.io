@@ -62,10 +62,8 @@ order: 1
 
 
 ### SOFTWARE DEVELOPED
-* **BIGKnock**: An R package of performing biobank-scale gene-based association test via knockoffs.
-   -  [https://github.com/Iuliana-Ionita-Laza/BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)
-* **GeneScan3DKnock**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
-   -  [https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)
+* **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
+* **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
 *  **GeneScan3D - UK Biobank Gene-based Results**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
    -  [http://www.funlda.com/gs3d](http://www.funlda.com/gs3d)
 
