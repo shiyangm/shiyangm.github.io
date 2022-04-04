@@ -16,8 +16,6 @@ order: 1
 
 
 ### EXPERIENCE
-**In October/November 2022, I will join School of Medicine, Shanghai Jiao Tong University as an assistant professor.**
-
 * _Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University_   
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 * _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
