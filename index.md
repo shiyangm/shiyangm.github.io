@@ -16,7 +16,7 @@ order: 1
 
 
 ### EXPERIENCE
-* In October 2022, I will join the Clinical Research Institute, [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor.
+* In October 2022, I will join the [Clinical Research Institute](https://www.shsmu.edu.cn/cri/index.htm), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor.
 * Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 * Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester  
