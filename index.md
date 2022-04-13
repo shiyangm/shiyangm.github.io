@@ -8,20 +8,21 @@ order: 1
 
 
 ### EDUCATION 
-*  _Ph.D. in Statistics (2019), Department of Biostatistics and Computational Biology, University of Rochester_  
+*  Ph.D. in Statistics (2019), [Department of Biostatistics and Computational Biology, University of Rochester](https://www.urmc.rochester.edu/biostat.aspx)  
     - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
     - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
-*  _M.A. in Statistics (2016), Department of Biostatistics and Computational Biology, University of Rochester_    
-*  _B.S. in Mathematics (2014), Department of Mathematics, Sichuan University_
+*  M.A. in Statistics (2016), Department of Biostatistics and Computational Biology, University of Rochester    
+*  B.S. in Mathematics (2014), Department of Mathematics, Sichuan University
 
 
 ### EXPERIENCE
-* _Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University_   
+In October 2022，I will join the Clinical Research Institute, [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor. 
+* Postdoctoral Research Scientist (2019/10-Present), [Department of Biostatistics, Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics)   
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
-* _Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester_
-* _President (2017-2018), Chinese Students and Scholars Association at University of Rochester_ 
-* _Biostatistics Intern (2017), Mayo Clinic_  
-* _Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester_
+* Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester
+* President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
+* Biostatistics Intern (2017), Mayo Clinic  
+* Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester
 
 
 ### RESEARCH  INTEREST
