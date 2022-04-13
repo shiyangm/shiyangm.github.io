@@ -78,7 +78,7 @@ _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Cl
 
 
 ### CONTACT
-[Department of Biostatistics, Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  <br>
+[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/)  <br>
 722 West 168th Street, R651 <br>
 New York, NY 10032. USA
 
