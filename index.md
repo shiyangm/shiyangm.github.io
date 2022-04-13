@@ -8,7 +8,7 @@ order: 1
 
 
 ### EDUCATION 
-*  Ph.D. in Statistics (2019), [Department of Biostatistics and Computational Biology, University of Rochester](https://www.urmc.rochester.edu/biostat.aspx)  
+*  Ph.D. in Statistics (2019), Department of Biostatistics and Computational Biology, University of Rochester
     - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
     - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
 *  M.A. in Statistics (2016), Department of Biostatistics and Computational Biology, University of Rochester    
@@ -16,10 +16,10 @@ order: 1
 
 
 ### EXPERIENCE
-In October 2022，I will join the Clinical Research Institute, [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor. 
-* Postdoctoral Research Scientist (2019/10-Present), [Department of Biostatistics, Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics)   
+* In October 2022, I will join the Clinical Research Institute, [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor.
+* Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
-* Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester
+* Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester  
 * President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
 * Biostatistics Intern (2017), Mayo Clinic  
 * Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester
@@ -78,7 +78,7 @@ _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Cl
 
 
 ### CONTACT
-Department of Biostatistics, Columbia University <br>
+[Department of Biostatistics, Columbia University](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  <br>
 722 West 168th Street, R651 <br>
 New York, NY 10032. USA
 
