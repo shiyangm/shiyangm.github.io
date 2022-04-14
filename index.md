@@ -74,7 +74,6 @@ _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Cl
 
 ### AWARDS AND HONORS
 * Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018)
-* Promising Academic Leader, Student academic leadership award, UP-STAT (2018)
 
 
 ### CONTACT
