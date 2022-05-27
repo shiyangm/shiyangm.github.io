@@ -49,12 +49,12 @@ order: 1
 
 * Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) ["Motor, cognitive, and functional declines contribute to a single progressive factor in early HD".](https://doi.org/10.1212/WNL.0000000000004743) _Neurology_, **89**, 2495-2502. 
 
+
 ### PRESENTATIONS
 * The 34th New England Statistics Symposium (NESS); Hybrid conference. ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
 * Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ''Adaptive dose-response studies with generalized multiple contrast tests'', April 2019.
 * 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada. ''Does it Pay to Repeat the Baseline?'' August 2018.
 * Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies,'' April 2018.
-* International Society for Computerized Electrocardiology 42nd Annual Conference; St. Simons Island, GA. The 2017 ISCE ''JTpeak'' Initiative, April 2017.
 
 
 ### SOFTWARE DEVELOPED
