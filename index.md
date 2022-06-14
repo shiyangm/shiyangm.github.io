@@ -7,22 +7,20 @@ order: 1
 ---
 
 
+### EXPERIENCE
+* In October 2022, I will join the [Clinical Research Institute](https://www.shsmu.edu.cn/cri/index.htm), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor.
+* Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University
+    - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
+* President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
+* Biostatistics Intern (2017), Mayo Clinic  
+
+
 ### EDUCATION 
 *  Ph.D. in Statistics (2019), Department of Biostatistics and Computational Biology, University of Rochester
     - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
     - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
 *  M.A. in Statistics (2016), Department of Biostatistics and Computational Biology, University of Rochester    
 *  B.S. in Mathematics (2014), Department of Mathematics, Sichuan University
-
-
-### EXPERIENCE
-* In October 2022, I will join the [Clinical Research Institute](https://www.shsmu.edu.cn/cri/index.htm), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor.
-* Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University
-    - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
-* Research Assistant (2016-2019), Department of Biostatistics and Computational Biology, University of Rochester  
-* President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
-* Biostatistics Intern (2017), Mayo Clinic  
-* Teaching Assistant (2015-2016), Department of Biostatistics and Computational Biology, University of Rochester
 
 
 ### RESEARCH  INTEREST
