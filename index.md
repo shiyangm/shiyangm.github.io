@@ -29,7 +29,6 @@ order: 1
    - developing statistical and computational methods for the analysis of genetic data
 * **clinical trials** 
    - dose-response studies and adaptive designs
-   - pre-post design
 
 
 ### SELECTED PUBLICATIONS
