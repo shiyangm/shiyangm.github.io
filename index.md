@@ -31,7 +31,7 @@ order: 1
    - dose-response studies and adaptive designs
 
 
-### SELECTED PUBLICATIONS
+### PUBLICATIONS
 * **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2022). ["Fine-mapping gene-based associations via knockoff analysis of biobank-scale data with applications to UK Biobank"](http://www.columbia.edu/~ii2135/ms_BIGKnock.pdf). Submitted.
 
 * He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) ["Summary statistics knockoff inference empowers identification of putative causal variants in genome-wide association studies"](https://doi.org/10.1101/2021.12.06.471440). Submitted.
@@ -46,8 +46,11 @@ order: 1
 
 * **Ma, S.** and McDermott, M. P. (2020). ["Generalized multiple contrast tests in dose-response studies".](https://doi.org/10.1002/sim.8444) _Statistics in Medicine_, **39**, 757-772.
 
+* Andrzejewski, K. L., **Ma, S.**, Owens, A., Bull, M. T., Biglan, K. M., Kanchana, S., Mink, J. W., McDermott, M. P., Crane, B. T., Barbano, R. (2018) ["Alterations in vestibular function in individuals with cervical dystonia and the effects of botulinum toxin treatment".](https://doi.org/10.1016/j.baga.2018.05.001) _Basal Ganglia_, **13**, 1-6. 
+
 * Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) ["Motor, cognitive, and functional declines contribute to a single progressive factor in early HD".](https://doi.org/10.1212/WNL.0000000000004743) _Neurology_, **89**, 2495-2502. (IF=11.8, Clinical Neurology 10 out of 212).
 
+* Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) ["An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval".](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _Journal of Electrocardiology_, **50**, 769-775.
 
 ### PRESENTATIONS
 * The 34th New England Statistics Symposium (NESS); Hybrid conference. ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
