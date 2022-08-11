@@ -38,7 +38,7 @@ order: 1
   
 * **Ma, S.** and McDermott, M. P. (2022). ["Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials".](https://doi.org/10.1002/bimj.202100044) _**Biometrical Journal**_, 64(1), 146-164.
 
-* **Ma, S.**, Dalgleish, J., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W. K., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://doi.org/10.1073/pnas.2105191118) _**Proceedings of the National Academy of Sciences of the United States of America**_, 118(47):e2105191118. (IF=12.779, Multidisciplinary Sciences 9 out of 73).
+* **Ma, S.**, Dalgleish, J., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W. K., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). ["Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes".](https://doi.org/10.1073/pnas.2105191118) _**Proceedings of the National Academy of Sciences of the United States of America**_, 118(47), e2105191118. (IF=12.779, Multidisciplinary Sciences 9 out of 73).
 
 * He, Z., Guen, Y. L., Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Belloy, M. E., Butler, R. R., Longo, F. M., Tang, H., Mormino, E. C., Wyss-Coray, T., Greicius, M. D. and Ionita-Laza, I. (2021) ["Genome-wide analysis of common and rare variants via multiple knockoffs at biobank scale, with an application to Alzheimer disease genetics".](https://doi.org/10.1016/j.ajhg.2021.10.009) _**American Journal of Human Genetics**_, 108(12), 2336-2353. (IF=12.779, Genetics & Heredity 10 out of 175).
 
