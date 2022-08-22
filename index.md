@@ -42,7 +42,7 @@ order: 1
 
 * He, Z., Guen, Y. L., Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Belloy, M. E., Butler, R. R., Longo, F. M., Tang, H., Mormino, E. C., Wyss-Coray, T., Greicius, M. D. and Ionita-Laza, I. (2021) ["Genome-wide analysis of common and rare variants via multiple knockoffs at biobank scale, with an application to Alzheimer disease genetics".](https://doi.org/10.1016/j.ajhg.2021.10.009) _**American Journal of Human Genetics**_, 108(12), 2336-2353. (IF=11.043, Genetics & Heredity 10 out of 175)
 
-* Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the glove fits": Hospital-wide universal gloving is associated with improved hand hygiene and may reduce Clostridioides difficile infection.](https://doi.org/10.1017/ice.2020.1422) _**Infection Control and Hospital Epidemiology**_, 42(11), 1351-1355.
+* Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the glove fits": Hospital-wide universal gloving is associated with improved hand hygiene and may reduce Clostridioides difficile infection.](https://doi.org/10.1017/ice.2020.1422) _**Infection Control and Hospital Epidemiology**_, 42(11), 1351-1355 (IF=6.52).
 
 * **Ma, S.** and McDermott, M. P. (2020). ["Generalized multiple contrast tests in dose-response studies".](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39(6), 757-772.
 
