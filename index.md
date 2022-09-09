@@ -6,8 +6,6 @@ use-site-title: true
 order: 1
 ---
 
-[Curriculum Vitae](https://github.com/shiyangm/shiyangm.github.io/raw/master/assets/CV_ShiyangMa.pdf) (Updated: August 13, 2022)
-
 ### EXPERIENCE
 * Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
