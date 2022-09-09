@@ -9,7 +9,6 @@ order: 1
 [Curriculum Vitae](https://github.com/shiyangm/shiyangm.github.io/raw/master/assets/CV_ShiyangMa.pdf) (Updated: August 13, 2022)
 
 ### EXPERIENCE
-* In October 2022, I will join the [Clinical Research Institute](https://www.shsmu.edu.cn/cri/index.htm), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english/) as an assistant professor.
 * Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 * President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
