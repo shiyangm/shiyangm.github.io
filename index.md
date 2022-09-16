@@ -7,7 +7,8 @@ order: 1
 ---
 
 ### EXPERIENCE
-* Postdoctoral Research Scientist (2019/10-Present), Department of Biostatistics, Columbia University
+* I will join the Clinical Research Institute at Shanghai Jiao Tong University School of Medicine as an Assistant Professor in October 2022.
+* Postdoctoral Research Scientist (2019/10-2022/09), Department of Biostatistics, Columbia University
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 * President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
 * Biostatistics Intern (2017), Mayo Clinic  
