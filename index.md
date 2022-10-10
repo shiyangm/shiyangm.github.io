@@ -10,7 +10,6 @@ order: 1
 * Assistant Professor (2022-present), Clinical Research Institute, Shanghai Jiao Tong University School of Medicine
 * Postdoctoral Research Scientist (2019-2022), Department of Biostatistics, Columbia University
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
-* President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
 * Biostatistics Intern (2017), Mayo Clinic  
 
 
