@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Shiyang Ma
-subtitle: Postdoctoral Research Scientist, Department of Biostatistics, Columbia University
+subtitle: Assistant Professor, Shanghai Jiao Tong University School of Medicine
 use-site-title: true
 order: 1
 ---
 
 ### EXPERIENCE
-* I will join the Clinical Research Institute at Shanghai Jiao Tong University School of Medicine as an Assistant Professor in October 2022.
+* Assistant Professor (2022-present), Clinical Research Institute, Shanghai Jiao Tong University School of Medicine
 * Postdoctoral Research Scientist (2019-2022), Department of Biostatistics, Columbia University
     - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 * President (2017-2018), Chinese Students and Scholars Association at University of Rochester 
@@ -73,8 +73,6 @@ _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Cl
 
 
 ### CONTACT
-[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/)  <br>
-722 West 168th Street <br>
-New York, NY 10032. USA
+227 South Chongqing Road, Shanghai, China
 
-**Email**: sm4857@cumc.columbia.edu 
+**Email**: mashiyang1991@outlook.com 
