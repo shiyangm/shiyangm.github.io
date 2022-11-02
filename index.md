@@ -76,4 +76,4 @@ _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Cl
 [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/)   
 Shanghai, 200025, China  
 
-**Email**: mashiyang@shsmu.edu.cn
+**Email**: mashiyang1991@sjtu.edu.cn
