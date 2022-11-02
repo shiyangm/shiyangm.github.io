@@ -72,9 +72,8 @@ _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Cl
 
 
 ### CONTACT
-Clinical Research Institute
-Shanghai Jiao Tong University School of Medicine
-Shanghai, 200025, China
-
+[Clinical Research Institute](https://www.shsmu.edu.cn/cri/)  
+[Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/)   
+Shanghai, 200025, China  
 
 **Email**: mashiyang@shsmu.edu.cn
