@@ -72,6 +72,8 @@ _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Cl
 
 
 ### CONTACT
-227 South Chongqing Road, Shanghai, China
+Clinical Research Institute
+Shanghai Jiao Tong University School of Medicine
+Shanghai, 200025, China
 
-**Email**: mashiyang1991@outlook.com 
+**Email**: mashiyang@shsmu.edu.cn
