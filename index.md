@@ -50,7 +50,8 @@ order: 1
 
 * Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) ["An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval".](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _**Journal of Electrocardiology**_, 50(6), 769-775.
 
-### PRESENTATIONS
+### SELECTED TALKS
+* Department of Biostatistics, City University of Hong Kong. ''Fine-mapping gene-based associations via knockoff analysis of biobank-scale data with applications to UK Biobank'' (Invited talk), November 2022.
 * The 34th New England Statistics Symposium (NESS); Hybrid conference. ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'' (Invited talk), October 2021.
 * Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ''Adaptive dose-response studies with generalized multiple contrast tests'', April 2019.
 * 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada. ''Does it Pay to Repeat the Baseline?'' August 2018.
