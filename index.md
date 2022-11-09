@@ -31,7 +31,7 @@ order: 1
 ### PUBLICATIONS
 * **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2022). ["Fine-mapping gene-based associations via knockoff analysis of biobank-scale data with applications to UK Biobank"](http://www.columbia.edu/~ii2135/ms_BIGKnock.pdf). Under revision.
 
-* He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Gyawali, P. K., Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) ["Summary statistics knockoff inference empowers identification of putative causal variants in genome-wide association studies"](https://doi.org/10.1101/2021.12.06.471440). _**Nature Communications**_, accepted.  (IF=17.694, Multidisciplinary Sciences 6 out of 73)
+* He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Gyawali, P. K., Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) ["GhostKnockoff inference empowers identification of putative causal variants in genome-wide association studies"](https://doi.org/10.1101/2021.12.06.471440). _**Nature Communications**_, accepted.  (IF=17.694, Multidisciplinary Sciences 6 out of 73)
   
 * **Ma, S.** and McDermott, M. P. (2022). ["Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials".](https://doi.org/10.1002/bimj.202100044) _**Biometrical Journal**_, 64(1), 146-164.
 
