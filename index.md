@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shiyang Ma (马诗洋)
+title: Shiyang Ma
 subtitle: Assistant Professor, Shanghai Jiao Tong University School of Medicine
 use-site-title: true
 order: 1
