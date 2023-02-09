@@ -52,7 +52,8 @@ order: 1
 * Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) [An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval.](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _**Journal of Electrocardiology**_, 50(6), 769-775.
 
 ### FUNDING
-* Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025)
+* Shanghai Sailing Program, PI. (2023-2026). Total awarded amount: ¥200,000 CNY.
+* Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025). Total awarded amount: ¥125,000 CNY.
 
 ### SELECTED TALKS
 * Department of Biostatistics, City University of Hong Kong. ''Fine-mapping gene-based associations via knockoff analysis of biobank-scale data with applications to UK Biobank'' (Invited talk), November 2022.
