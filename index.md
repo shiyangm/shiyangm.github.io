@@ -31,7 +31,7 @@ order: 1
 ### PUBLICATIONS
 * **Ma, S.** and Wang, T. (2023). The optimal pre-post allocation for randomized clinical trials. _**BMC Medical Research Methodology**_, under revision. 
 
-* **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2023). [BIGKnock: Fine-mapping gene-based associations via knockoff analysis of biobank-scale data](http://www.columbia.edu/~ii2135/ms_BIGKnock.pdf). _**Genome Biology**_, accepted.
+* **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2023). [BIGKnock: Fine-mapping gene-based associations via knockoff analysis of biobank-scale data](https://doi.org/10.1186/s13059-023-02864-6). _**Genome Biology**_, 24, 24.
 
 * He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Gyawali, P. K., Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) [GhostKnockoff inference empowers identification of putative causal variants in genome-wide association studies](https://doi.org/10.1038/s41467-022-34932-z). _**Nature Communications**_, 13, 7209.
   
