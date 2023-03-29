@@ -29,7 +29,7 @@ order: 1
 
 
 ### PUBLICATIONS
-* **Ma, S.** and Wang, T. (2023). The optimal pre-post allocation for randomized clinical trials. _**BMC Medical Research Methodology**_, accepted. (JCR Q1, 5-year IF=6.73)
+* **Ma, S.** and Wang, T. (2023). [The optimal pre-post allocation for randomized clinical trials](https://doi.org/10.1186/s12874-023-01893-w). _**BMC Medical Research Methodology**_, 23, 72. (JCR Q1, 5-year IF=6.73)
 
 * **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2023). [BIGKnock: Fine-mapping gene-based associations via knockoff analysis of biobank-scale data](https://doi.org/10.1186/s13059-023-02864-6). _**Genome Biology**_, 24, 24. (JCR Q1, 4/175, 5-year IF=20.37)
 
