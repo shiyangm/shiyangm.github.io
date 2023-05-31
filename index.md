@@ -56,6 +56,7 @@ order: 1
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
 
 ### SELECTED TALKS
+* Center for Statistical Science, Tsinghua University. ''Knockoff-Based Statistics for the Identification of Putative Causal Genes in Genetic Studies'', May 2023.
 * School of Mathematical Sciences, Shanghai Jiao Tong University. ''Model-X Knockoff Statistics for Causal Gene Discovery in Complex Diseases'', March 2023.
 * Department of Biostatistics, City University of Hong Kong. ''Fine-mapping gene-based associations via knockoff analysis of biobank-scale data with applications to UK Biobank'', November 2022.
 * Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. ``Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'', June 2022.
