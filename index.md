@@ -63,7 +63,7 @@ order: 1
 * School of Mathematical Sciences, Shanghai Jiao Tong University, China. March 2023.
 * Department of Biostatistics, City University of Hong Kong, China. November 2022.
 * Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China. June 2022.
-* The 34th New England Statistics Symposium (NESS); Hybrid conference, USA. October 2021.
+* The 34th New England Statistics Symposium, Hybrid conference, USA. October 2021.
 
 ### SOFTWARE DEVELOPED
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
