@@ -55,16 +55,15 @@ order: 1
 * Shanghai Sailing Program, 23YF1421000, PI. (2023-2026).
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
 
-### SELECTED TALKS
-* Center for Statistical Science, Tsinghua University. ''Knockoff-Based Statistics for the Identification of Putative Causal Genes in Genetic Studies'', May 2023.
-* School of Mathematical Sciences, Shanghai Jiao Tong University. ''Model-X Knockoff Statistics for Causal Gene Discovery in Complex Diseases'', March 2023.
-* Department of Biostatistics, City University of Hong Kong. ''Fine-mapping gene-based associations via knockoff analysis of biobank-scale data with applications to UK Biobank'', November 2022.
-* Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University. ``Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'', June 2022.
-* The 34th New England Statistics Symposium (NESS); Hybrid conference. ''Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes'', October 2021.
-* Eighth Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ''Adaptive dose-response studies with generalized multiple contrast tests'', April 2019.
-* 2018 Joint Statistical Meetings; Vancouver, British Columbia, Canada. ''Does it Pay to Repeat the Baseline?'' August 2018.
-* Seventh Annual Conference of the Upstate chapters of the American Statistical Association (UP-STAT); Rochester, NY. ''Generalized Multiple Contrast Tests in Proof-of-Concept Dose-Response Studies,'' April 2018.
-
+### INVITED TALKS
+* Joint Conference on Statistics and Data Science in China 2023, Beijing, China. July 2023.
+* The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China. July 2023.
+* ICSA 2023 China Conference, Chengdu, China. June 2023.
+* Center for Statistical Science, Tsinghua University, China. May 2023.
+* School of Mathematical Sciences, Shanghai Jiao Tong University, China. March 2023.
+* Department of Biostatistics, City University of Hong Kong, China. November 2022.
+* Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China. June 2022.
+* The 34th New England Statistics Symposium (NESS); Hybrid conference, USA. October 2021.
 
 ### SOFTWARE DEVELOPED
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
@@ -74,11 +73,6 @@ order: 1
 
 ### JOURNAL REVIEW
 _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics & Epidemiology_
-
-
-### AWARDS AND HONORS
-* Gold Medal, Best student research awards, Theory and methodology, UP-STAT (2018)
-
 
 ### CONTACT
 [Clinical Research Institute](https://www.shsmu.edu.cn/cri/)  
