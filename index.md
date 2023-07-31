@@ -56,14 +56,14 @@ order: 1
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
 
 ### INVITED TALKS
-* Joint Conference on Statistics and Data Science in China 2023, Beijing, China. July 2023.
-* The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China. July 2023.
-* ICSA 2023 China Conference, Chengdu, China. June 2023.
-* Center for Statistical Science, Tsinghua University, China. May 2023.
-* School of Mathematical Sciences, Shanghai Jiao Tong University, China. March 2023.
-* Department of Biostatistics, City University of Hong Kong, China. November 2022.
-* Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China. June 2022.
-* The 34th New England Statistics Symposium, Hybrid conference, USA. October 2021.
+* Joint Conference on Statistics and Data Science in China 2023, Beijing, China (07/2023).
+* The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China (07/2023).
+* ICSA 2023 China Conference, Chengdu, China (06/2023).
+* Center for Statistical Science, Tsinghua University, China (05/2023).
+* School of Mathematical Sciences, Shanghai Jiao Tong University, China (03/2023).
+* Department of Biostatistics, City University of Hong Kong, China (11/2023).
+* Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (06/2022).
+* The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
 
 ### SOFTWARE DEVELOPED
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
