@@ -72,7 +72,7 @@ order: 1
 
 
 ### JOURNAL REVIEW
-_Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics & Epidemiology_
+_Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics & Epidemiology_; _F1000Research_
 
 ### CONTACT
 [Clinical Research Institute](https://www.shsmu.edu.cn/cri/)  
