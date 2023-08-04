@@ -58,6 +58,7 @@ order: 1
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
 
 ### INVITED TALKS
+* 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
 * Joint Conference on Statistics and Data Science in China 2023, Beijing, China (07/2023).
 * The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China (07/2023).
 * ICSA 2023 China Conference, Chengdu, China (06/2023).
