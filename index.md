@@ -45,7 +45,7 @@ order: 1
 
 * Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the glove fits": Hospital-wide universal gloving is associated with improved hand hygiene and may reduce Clostridioides difficile infection.](https://doi.org/10.1017/ice.2020.1422) _**Infection Control and Hospital Epidemiology**_, 42(11), 1351-1355.
 
-* **Ma, S.** and McDermott, M. P. (2020). ["Generalized multiple contrast tests in dose-response studies".](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39(6), 757-772.
+* **Ma, S.** and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39(6), 757-772.
 
 * Andrzejewski, K. L., **Ma, S.**, Owens, A., Bull, M. T., Biglan, K. M., Kanchana, S., Mink, J. W., McDermott, M. P., Crane, B. T., Barbano, R. (2018) [Alterations in vestibular function in individuals with cervical dystonia and the effects of botulinum toxin treatment.](https://doi.org/10.1016/j.baga.2018.05.001) _**Basal Ganglia**_, 13, 1-6. 
 
