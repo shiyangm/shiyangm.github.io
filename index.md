@@ -55,6 +55,7 @@ order: 1
 
 ### FUNDING
 * Shanghai Sailing Program, 23YF1421000, PI. (2023-2026).
+* Clinical Research Project of Shanghai Municipal Health Commission in Health Industry (20234Y0285)
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
 
 ### INVITED TALKS
@@ -72,7 +73,6 @@ order: 1
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
 * **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
 *  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
-
 
 ### JOURNAL REVIEW
 _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics & Epidemiology_; _F1000Research_
