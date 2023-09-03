@@ -55,7 +55,7 @@ order: 1
 
 ### FUNDING
 * Shanghai Sailing Program, 23YF1421000, PI. (2023-2026).
-* Clinical Research Project of Shanghai Municipal Health Commission in Health Industry (20234Y0285)
+* Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, PI. (2023-2026).
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
 
 ### INVITED TALKS
