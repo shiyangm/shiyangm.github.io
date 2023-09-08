@@ -9,13 +9,13 @@ order: 1
 ### EXPERIENCE
 * Assistant Professor (2022-present), Clinical Research Institute, Shanghai Jiao Tong University School of Medicine, Shanghai, China
 * Postdoctoral Research Scientist (2019-2022), Department of Biostatistics, Columbia University, New York, NY
-    - Supervisor: [Dr. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
+    - Supervisor: [Prof. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 * Biostatistics Intern (2017), Mayo Clinic, Rochester, MN  
 
 
 ### EDUCATION 
 *  Ph.D. in Statistics (2019), Department of Biostatistics and Computational Biology, University of Rochester, Rochester, NY  
-    - Advisors: [Dr. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Dr. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
+    - Advisors: [Prof. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Prof. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
     - Dissertation: [Methods for Improving Efficiency in Clinical Trials](https://search.proquest.com/docview/2335218128?pq-origsite=gscholar&fromopenview=true)     
 *  M.A. in Statistics (2016), Department of Biostatistics and Computational Biology, University of Rochester, Rochester, NY    
 *  B.S. in Mathematics (2014), Department of Mathematics, Sichuan University, Chengdu, China
