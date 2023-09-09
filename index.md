@@ -74,9 +74,6 @@ order: 1
 * **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
 *  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
 
-### JOURNAL REVIEW
-_Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics & Epidemiology_; _F1000Research_
-
 ### CONTACT
 [Clinical Research Institute](https://www.shsmu.edu.cn/cri/)  
 [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/)   
