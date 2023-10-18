@@ -58,7 +58,7 @@ order: 1
 * Shanghai Rising-Star Program, 23YF1421000, PI. (2023-2026).
 * Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, PI. (2023-2026).
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
-* Startup Fund for Young Faculty at SJTU, PI. (2022-2025).
+* Startup Fund for Young Faculty at Shanghai Jiao Tong University, PI. (2022-2025).
 
 ### INVITED TALKS
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
