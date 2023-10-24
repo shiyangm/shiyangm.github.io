@@ -29,7 +29,7 @@ order: 1
 
 
 ### PUBLICATIONS
-* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen,Y., Pan,L., Cui,Y., Chen, Z., Sessler, D. I.,  Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.,\* and Li, P.\* (2023+) The Association between Long-term Exposure to Multiple Air Pollutants and the Risk  of Cerebral Small Vessel Disease: Modifying Effects of PRS defined Genetic Susceptibility. Submitted. #_**Co-first author**_.
+* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, Y., Pan, L., Cui, Y., Chen, Z., Sessler, D. I.,  Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.,\* and Li, P.\* (2023+) The Association between Long-term Exposure to Multiple Air Pollutants and the Risk  of Cerebral Small Vessel Disease: Modifying Effects of PRS defined Genetic Susceptibility. Submitted. #_**Co-first author**_.
 
 * Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2023+) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://www.biorxiv.org/content/10.1101/2023.08.06.552154v1). Submitted.
 
