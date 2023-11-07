@@ -64,6 +64,7 @@ order: 1
 
 ### INVITED TALKS
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
+* Department of Biostatistics, Peking University, China (11/2023).
 * Joint Conference on Statistics and Data Science in China 2023, Beijing, China (07/2023).
 * The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China (07/2023).
 * ICSA 2023 China Conference, Chengdu, China (06/2023).
@@ -73,6 +74,9 @@ order: 1
 * Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (06/2022).
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
 
+### TEACHING
+* **Introduction to Clinical Research Methods**, Shanghai Jiao Tong University School of Medicine (November 2023)
+  
 ### SOFTWARE DEVELOPED
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
 * **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
