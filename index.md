@@ -7,10 +7,10 @@ order: 1
 ---
 
 ### EXPERIENCE
-* Assistant Professor (2022-present), Clinical Research Institute, Shanghai Jiao Tong University School of Medicine, Shanghai, China
+* Associate Professor (2024-present), School of Medicine, School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China
+* Assistant Professor (2022-2023), School of Medicine, Shanghai Jiao Tong University, Shanghai, China
 * Postdoctoral Research Scientist (2019-2022), Department of Biostatistics, Columbia University, New York, NY
     - Supervisor: [Prof. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
-* Biostatistics Intern (2017), Mayo Clinic, Rochester, MN  
 
 
 ### EDUCATION 
