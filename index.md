@@ -57,12 +57,12 @@ order: 1
 
 * Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) [An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval.](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _**Journal of Electrocardiology**_, 50(6), 769-775.
 
-### FUNDING
-* The National Natural Science Foundation of China Excellent Young Scholars Fund (Overseas), PI. (2024-2026).
-* Shanghai Rising-Star Program, 23YF1421000, PI. (2023-2026).
-* Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, PI. (2023-2026).
-* Fundamental Research Funds for the Central Universities, YG2023QNA01, PI. (2023-2025).
-* Startup Fund for Young Faculty at Shanghai Jiao Tong University, PI. (2022-2025).
+### FUNDING (as PI)
+* The National Natural Science Foundation of China Excellent Young Scholars Fund (Overseas), (2024-2026).
+* Shanghai Rising-Star Program, 23YF1421000, (2023-2026).
+* Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, (2023-2026).
+* Fundamental Research Funds for the Central Universities, YG2023QNA01, (2023-2025).
+* Startup Fund for Young Faculty at Shanghai Jiao Tong University, (2022-2025).
 
 ### INVITED TALKS
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
