@@ -65,6 +65,7 @@ order: 1
 * Startup Fund for Young Faculty at Shanghai Jiao Tong University, (2022-2025).
 
 ### INVITED TALKS
+* Tianyuan Mathematics Research Center, Kunming, China (01/2024).
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
 * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China (11/2023).
 * Department of Biostatistics, Peking University, China (11/2023).
