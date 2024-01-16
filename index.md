@@ -87,7 +87,6 @@ order: 1
 *  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
 
 ### CONTACT
-[Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/)   
 227 South Chongqing Road
 Shanghai, 200025, China  
 
