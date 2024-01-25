@@ -62,9 +62,9 @@ order: 1
 * Shanghai Rising-Star Program, 23YF1421000, (2023-2026).
 * Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, (2023-2026).
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, (2023-2025).
-* Startup Fund for Young Faculty at Shanghai Jiao Tong University, (2022-2025).
 
 ### INVITED TALKS
+* 12th International Conference on Bioinformatics and Computational Biology (ICBCB 2024), Tokyo, Japan (03/2024).
 * Tianyuan Mathematics Research Center, Kunming, China (01/2024).
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
 * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China (11/2023).
