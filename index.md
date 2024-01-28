@@ -29,11 +29,11 @@ order: 1
 
 
 ### PUBLICATIONS
-* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2023+) High-dimensional mediation analysis for longitudinal data. Submitted. *_Co-corresponding author_.
+* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024+) High-dimensional mediation analysis for longitudinal data. Submitted. *_Co-corresponding author_.
 
-* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.,\* and Li, P.\* (2023+) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. Submitted. #_Co-first author_.
+* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.,\* and Li, P.\* (2024+) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. Submitted. #_Co-first author_.
 
-* Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2023+) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://www.biorxiv.org/content/10.1101/2023.08.06.552154v1). Submitted.
+* Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024+) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://www.biorxiv.org/content/10.1101/2023.08.06.552154v1). Submitted.
 
 * **Ma, S.** and Wang, T. (2023). [The optimal pre-post allocation for randomized clinical trials](https://doi.org/10.1186/s12874-023-01893-w). _**BMC Medical Research Methodology**_, 23, 72.
 
