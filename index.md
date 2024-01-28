@@ -69,6 +69,7 @@ order: 1
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
 * Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China (11/2023).
 * Department of Biostatistics, Peking University, China (11/2023).
+* Chinese Academy of Sciences Shanghai Branch, Shanghai, China. (10/2023).
 * Joint Conference on Statistics and Data Science in China 2023, Beijing, China (07/2023).
 * The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China (07/2023).
 * ICSA 2023 China Conference, Chengdu, China (06/2023).
