@@ -62,7 +62,6 @@ order: 1
 * Shanghai Rising-Star Program, 23YF1421000, (2023-2026).
 * Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, (2023-2026).
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, (2023-2025).
-* Startup Fund for Young Faculty at Shanghai Jiao Tong University, PI. (2024-2026).
 
 ### INVITED TALKS
 * 12th International Conference on Bioinformatics and Computational Biology (ICBCB 2024), Tokyo, Japan (03/2024).
