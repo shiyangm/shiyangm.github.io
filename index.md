@@ -87,7 +87,8 @@ order: 1
 
 ### TEACHING
 * **Biostatistics**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
-* **Introduction to Clinical Research Methods**, School of Medicine, Shanghai Jiao Tong University (Spring 2023, Guest lecturer)
+* **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Spring 2024, Guest lecturer)
+* **Introduction to Clinical Research Methods**, Shanghai Jiao Tong University School of Medicine (Fall 2023, Guest lecturer)
   
 ### SOFTWARE DEVELOPED
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
