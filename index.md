@@ -29,11 +29,13 @@ order: 1
 
 
 ### PUBLICATIONS
-* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024+) High-dimensional mediation analysis for longitudinal data. Submitted. *_Co-corresponding author_.
+* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024+) Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating.
 
-* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.,\* and Li, P.\* (2024+) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. Submitted. #_Co-first author_.
+* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024+) High-dimensional mediation analysis for longitudinal data. *_Co-corresponding author_.
 
-* Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024+) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://www.biorxiv.org/content/10.1101/2023.08.06.552154v1). Submitted.
+* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.,\* and Li, P.\* (2024+) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. #_Co-first author_.
+
+* Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024+) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://www.biorxiv.org/content/10.1101/2023.08.06.552154v1).
 
 * **Ma, S.** and Wang, T. (2023). [The optimal pre-post allocation for randomized clinical trials](https://doi.org/10.1186/s12874-023-01893-w). _**BMC Medical Research Methodology**_, 23, 72.
 
@@ -58,12 +60,16 @@ order: 1
 * Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) [An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval.](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _**Journal of Electrocardiology**_, 50(6), 769-775.
 
 ### FUNDING (as PI)
-* The National Natural Science Foundation of China Excellent Young Scholars Fund (Overseas), (2024-2026).
-* Shanghai Rising-Star Program, 23YF1421000, (2023-2026).
-* Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, (2023-2026).
-* Fundamental Research Funds for the Central Universities, YG2023QNA01, (2023-2025).
+* The National Natural Science Foundation of China Excellent Young Scholars Fund (Overseas), $1,000,000 CNY. (2024-2026).
+* Shanghai Rising-Star Program, 23YF1421000, $200,000 CNY. (2023-2026).
+* Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, $50,000 CNY. (2023-2026).
+* Fundamental Research Funds for the Central Universities, YG2023QNA01, $125,000 CNY. (2023-2025).
+* Startup Fund for Young Faculty at Shanghai Jiao Tong University School of Medicine, $1,000,000 CNY. (2024-2026).
 
 ### INVITED TALKS
+* The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing, China (07/2024).
+* The 2nd Joint Conference on Statistics and Data Science in China (JCSDS 2024), Kunming, China (07/2024).
+* Institute of Statistics and Big Data, Renmin University of China, Beijing, China (05/2024).
 * 12th International Conference on Bioinformatics and Computational Biology (ICBCB 2024), Tokyo, Japan (03/2024).
 * Tianyuan Mathematics Research Center, Kunming, China (01/2024).
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
@@ -80,7 +86,8 @@ order: 1
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
 
 ### TEACHING
-* **Introduction to Clinical Research Methods**, Shanghai Jiao Tong University School of Medicine (November 2023)
+* **Biostatistics**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
+* **Introduction to Clinical Research Methods**, School of Medicine, Shanghai Jiao Tong University (Spring 2023, Guest lecturer)
   
 ### SOFTWARE DEVELOPED
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
