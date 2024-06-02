@@ -29,9 +29,11 @@ order: 1
 
 
 ### PUBLICATIONS
-* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024+) Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating.
+* **Ma, S.** and Zhang, Z. (2024). Cross-omics interpretable powerful AI models uncover the mystery of the multi-body-effects and autoimmunity of SLE.
 
-* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024+) High-dimensional mediation analysis for longitudinal data. *_Co-corresponding author_.
+* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating.
+
+* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. *_Co-corresponding author_.
 
 * Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.,\* and Li, P.\* (2024+) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. #_Co-first author_.
 
