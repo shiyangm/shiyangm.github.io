@@ -28,7 +28,7 @@ order: 1
    - dose-response studies, adaptive designs, repeated measures designs
 
 
-### PUBLICATIONS
+### PUBLICATIONS 
 (* represents corresponding author, # represents co-first author.)
 
 * **Ma, S.**#\* and Zhang, Z.#\* (2024). Cross-omics interpretable powerful AI models uncover the mystery of the multi-body-effects and autoimmunity of SLE.
