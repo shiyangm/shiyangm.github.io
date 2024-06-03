@@ -31,7 +31,7 @@ order: 1
 ### PUBLICATIONS
 (* represents corresponding author, # represents co-first author.)
 
-* **Ma, S.#\*** and Zhang, Z.#\* (2024). Cross-omics interpretable powerful AI models uncover the mystery of the multi-body-effects and autoimmunity of SLE.
+* **Ma, S.**#\* and Zhang, Z.#\* (2024). Cross-omics interpretable powerful AI models uncover the mystery of the multi-body-effects and autoimmunity of SLE.
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating.
 
@@ -47,7 +47,7 @@ order: 1
 
 * He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Gyawali, P. K., Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) [GhostKnockoff inference empowers identification of putative causal variants in genome-wide association studies](https://doi.org/10.1038/s41467-022-34932-z). _**Nature Communications**_, 13, 7209.
   
-* **Ma, S.\*** and McDermott, M. P. (2022). [Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials.](https://doi.org/10.1002/bimj.202100044) _**Biometrical Journal**_, 64(1), 146-164.
+* **Ma, S**.\* and McDermott, M. P. (2022). [Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials.](https://doi.org/10.1002/bimj.202100044) _**Biometrical Journal**_, 64(1), 146-164.
 
 * **Ma, S.**, Dalgleish, J., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W. K., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). [Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.](https://doi.org/10.1073/pnas.2105191118) _**Proceedings of the National Academy of Sciences of the United States of America**_, 118(47), e2105191118.
 
@@ -55,7 +55,7 @@ order: 1
 
 * Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the glove fits": Hospital-wide universal gloving is associated with improved hand hygiene and may reduce Clostridioides difficile infection.](https://doi.org/10.1017/ice.2020.1422) _**Infection Control and Hospital Epidemiology**_, 42(11), 1351-1355.
 
-* **Ma, S.\*** and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39(6), 757-772.
+* **Ma, S.**\* and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39(6), 757-772.
 
 * Andrzejewski, K. L., **Ma, S.**, Owens, A., Bull, M. T., Biglan, K. M., Kanchana, S., Mink, J. W., McDermott, M. P., Crane, B. T., Barbano, R. (2018) [Alterations in vestibular function in individuals with cervical dystonia and the effects of botulinum toxin treatment.](https://doi.org/10.1016/j.baga.2018.05.001) _**Basal Ganglia**_, 13, 1-6. 
 
