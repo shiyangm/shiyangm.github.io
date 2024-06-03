@@ -33,7 +33,7 @@ order: 1
 
 * **Ma, S.**#\* and Zhang, Z.#\* (2024). Cross-omics interpretable powerful AI models uncover the mystery of the multi-body-effects and autoimmunity of SLE.
 
-* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating.
+* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
 
 * Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. 
 
