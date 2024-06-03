@@ -29,7 +29,7 @@ order: 1
 
 
 ### PUBLICATIONS
-(* represents corresponding author, # represents first author.)
+(* represents corresponding author, # represents co-first author.)
 
 * **Ma, S.#\*** and Zhang, Z.#\* (2024). Cross-omics interpretable powerful AI models uncover the mystery of the multi-body-effects and autoimmunity of SLE.
 
