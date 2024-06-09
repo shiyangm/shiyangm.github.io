@@ -33,9 +33,9 @@ order: 1
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
 
-* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. *Equal contribution.
+* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. *Co-corresponding author.
 
-* Sun, X.\*, **Ma, S.**\*, Guo, Y.,\*, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z., and Li, P (2024) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. *Equal contribution.
+* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z., and Li, P (2024) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. #Co-first author.
 
 * Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://www.biorxiv.org/content/10.1101/2023.08.06.552154v1). _**Nature Communications**_
 
