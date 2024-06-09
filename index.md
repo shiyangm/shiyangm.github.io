@@ -91,11 +91,14 @@ order: 1
 * **Biostatistics**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
 * **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Spring 2024, Guest lecturer)
 * **Introduction to Clinical Research Methods**, Shanghai Jiao Tong University School of Medicine (Fall 2023, Guest lecturer)
-  
+
 ### SOFTWARE DEVELOPED
 * **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
 * **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
 *  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
+
+### Journal Review
+_Journal of the American Statistical Association_; _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
 
 ### CONTACT
 227 South Chongqing Road
