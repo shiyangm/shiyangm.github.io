@@ -29,15 +29,13 @@ order: 1
 
 
 ### PUBLICATIONS 
-(* represents corresponding author, # represents co-first author.)
-
-* **Ma, S.**#\* and Zhang, Z.#\* (2024). Interpretable powerful AI Models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus.
+* **Ma, S.**\* and Zhang, Z.\* (2024). Interpretable powerful AI Models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus. *Equal contribution.
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
 
-* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. 
+* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. *Equal contribution.
 
-* Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z., and Li, P (2024) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. 
+* Sun, X.\*, **Ma, S.**\*, Guo, Y.,\*, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z., and Li, P (2024) The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility. *Equal contribution.
 
 * Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://www.biorxiv.org/content/10.1101/2023.08.06.552154v1). _**Nature Communications**_
 
