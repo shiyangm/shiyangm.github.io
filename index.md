@@ -68,6 +68,20 @@ order: 1
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, (2023-2025).
 * Startup Fund for Young Faculty at Shanghai Jiao Tong University School of Medicine, (2024-2026).
 
+### TEACHING
+* **Biostatistics**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
+* **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Spring 2024, Guest lecturer)
+* **Introduction to Clinical Research Methods**, Shanghai Jiao Tong University School of Medicine (Fall 2023, Guest lecturer)
+
+### SOFTWARE DEVELOPED
+* **[LAVAKnock](https://github.com/shiyangm/LAVA-Knock)**: An R package to conduct local genetic correlation analysis via knockoffs.
+* **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
+* **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
+*  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
+
+### Journal Review
+_Journal of the American Statistical Association_; _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
+
 ### INVITED TALKS
 * The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing, China (07/2024).
 * The 2nd Joint Conference on Statistics and Data Science in China (JCSDS 2024), Kunming, China (07/2024).
@@ -87,20 +101,8 @@ order: 1
 * Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (06/2022).
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
 
-### TEACHING
-* **Biostatistics**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
-* **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Spring 2024, Guest lecturer)
-* **Introduction to Clinical Research Methods**, Shanghai Jiao Tong University School of Medicine (Fall 2023, Guest lecturer)
-
-### SOFTWARE DEVELOPED
-* **[BIGKnock](https://github.com/Iuliana-Ionita-Laza/BIGKnock)**: An R package of performing biobank-scale gene-based association test via knockoffs. 
-* **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
-*  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
-
-### Journal Review
-_Journal of the American Statistical Association_; _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
-
 ### CONTACT
+Shanghai Jiao Tong University School of Medicine
 227 South Chongqing Road
 Shanghai, 200025, China  
 
