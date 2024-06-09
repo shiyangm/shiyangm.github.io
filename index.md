@@ -29,7 +29,7 @@ order: 1
 
 
 ### PUBLICATIONS 
-* **Ma, S.**\* and Zhang, Z.\* (2024). Powerful AI Models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus. *Equal contribution.
+* **Ma, S.**\* and Zhang, Z.\* (2024). Powerful AI models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus. *Equal contribution.
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
 
