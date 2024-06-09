@@ -31,7 +31,7 @@ order: 1
 ### PUBLICATIONS 
 (* represents corresponding author, # represents co-first author.)
 
-* **Ma, S.**#\* and Zhang, Z.#\* (2024). Cross-omics interpretable powerful AI models uncover the mystery of the multi-body-effects and autoimmunity of SLE.
+* **Ma, S.**#\* and Zhang, Z.#\* (2024). Interpretable powerful AI Models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus.
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
 
