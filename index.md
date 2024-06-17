@@ -85,7 +85,7 @@ _Journal of the American Statistical Association_; _Journal of Applied Statistic
 ### INVITED TALKS
 * The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing, China (07/2024).
 * The 2nd Joint Conference on Statistics and Data Science in China (JCSDS 2024), Kunming, China (07/2024).
-* School of Mathematics and Statistics, Renmin University of China, Changchun, China (06/2024).
+* School of Mathematics and Statistics, Northeast Normal University, Changchun, China (06/2024).
 * Institute of Statistics and Big Data, Renmin University of China, Beijing, China (05/2024).
 * 12th International Conference on Bioinformatics and Computational Biology (ICBCB 2024), Tokyo, Japan (03/2024).
 * Tianyuan Mathematics Research Center, Kunming, China (01/2024).
