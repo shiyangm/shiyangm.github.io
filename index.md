@@ -103,7 +103,6 @@ _Journal of the American Statistical Association_; _Journal of Applied Statistic
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
 
 ### CONTACT
-Shanghai Jiao Tong University School of Medicine
 227 South Chongqing Road
 Shanghai, 200025, China  
 
