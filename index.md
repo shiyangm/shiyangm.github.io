@@ -28,12 +28,12 @@ order: 1
    - dose-response studies, adaptive designs, repeated measures designs
 
 
-### PUBLICATIONS 
-* **Ma, S.** and Zhang, Z. (2024). Powerful AI models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus.
+### SELECTED PUBLICATIONS 
+<!---* **Ma, S.** and Zhang, Z. (2024). Powerful AI models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus.-->
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
 
-* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. *Co-corresponding author.
+<!---* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. *Co-corresponding author.-->
 
 * Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z., and Li, P (2024) [The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility](https://www.sciencedirect.com/science/article/pii/S0147651324007140?via%3Dihub). _**Ecotoxicology and Environmental Safety**_, 281, 116638. #Co-first author.
 
@@ -51,15 +51,15 @@ order: 1
 
 * He, Z., Guen, Y. L., Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Belloy, M. E., Butler, R. R., Longo, F. M., Tang, H., Mormino, E. C., Wyss-Coray, T., Greicius, M. D. and Ionita-Laza, I. (2021) [Genome-wide analysis of common and rare variants via multiple knockoffs at biobank scale, with an application to Alzheimer disease genetics.](https://doi.org/10.1016/j.ajhg.2021.10.009) _**American Journal of Human Genetics**_, 108(12), 2336-2353.
 
-* Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the glove fits": Hospital-wide universal gloving is associated with improved hand hygiene and may reduce Clostridioides difficile infection.](https://doi.org/10.1017/ice.2020.1422) _**Infection Control and Hospital Epidemiology**_, 42(11), 1351-1355.
+<!---* Prasad, P., Brown, L., **Ma, S.**, McDavid, A., Rudmann, A., Lent, D., Reagan-Webster, P., Valcin, K. E., Graman, P. and Apostolakos, M. (2021). ["If the glove fits": Hospital-wide universal gloving is associated with improved hand hygiene and may reduce Clostridioides difficile infection.](https://doi.org/10.1017/ice.2020.1422) _**Infection Control and Hospital Epidemiology**_, 42(11), 1351-1355.-->
 
 * **Ma, S.**\* and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39(6), 757-772. *Corresponding author.
 
-* Andrzejewski, K. L., **Ma, S.**, Owens, A., Bull, M. T., Biglan, K. M., Kanchana, S., Mink, J. W., McDermott, M. P., Crane, B. T., Barbano, R. (2018) [Alterations in vestibular function in individuals with cervical dystonia and the effects of botulinum toxin treatment.](https://doi.org/10.1016/j.baga.2018.05.001) _**Basal Ganglia**_, 13, 1-6. 
+<!---* Andrzejewski, K. L., **Ma, S.**, Owens, A., Bull, M. T., Biglan, K. M., Kanchana, S., Mink, J. W., McDermott, M. P., Crane, B. T., Barbano, R. (2018) [Alterations in vestibular function in individuals with cervical dystonia and the effects of botulinum toxin treatment.](https://doi.org/10.1016/j.baga.2018.05.001) _**Basal Ganglia**_, 13, 1-6. -->
 
 * Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) [Motor, cognitive, and functional declines contribute to a single progressive factor in early HD.](https://doi.org/10.1212/WNL.0000000000004743) _**Neurology**_, 89(24), 2495-2502.
 
-* Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) [An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval.](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _**Journal of Electrocardiology**_, 50(6), 769-775.
+<!---* Couderc, J. P., **Ma, S.**, Page, A., Besaw, C., Xia, J., Chiu, W. B., de Bie, J., Vicente, J., Vaglio, M., Badilini, F., Babaeizadeh, S., Chien, C. S., Baumert, M. (2017) [An evaluation of multiple algorithms for the measurement of the heart rate corrected JTpeak interval.](https://doi.org/10.1016/j.jelectrocard.2017.08.025) _**Journal of Electrocardiology**_, 50(6), 769-775.-->
 
 ### FUNDING (as PI)
 * The National Natural Science Foundation of China Excellent Young Scholars Fund (Overseas), (2024-2026).
