@@ -69,7 +69,7 @@ order: 1
 * Startup Fund for Young Faculty at Shanghai Jiao Tong University School of Medicine, (2024-2028).
 
 ### TEACHING
-* **Biostatistics**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
+* **Biostatistics (STAT6138)**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
 * **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Spring 2024, Guest lecturer)
 * **Introduction to Clinical Research Methods**, Shanghai Jiao Tong University School of Medicine (Fall 2023, Guest lecturer)
 
