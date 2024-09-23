@@ -33,7 +33,7 @@ order: 1
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Local genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
 
-<!---* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. *Co-corresponding author.-->
+* Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. _**Briefings in Bioinformatics**_, *Co-corresponding author.
 
 * Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z., and Li, P (2024) [The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility](https://www.sciencedirect.com/science/article/pii/S0147651324007140?via%3Dihub). _**Ecotoxicology and Environmental Safety**_, 281, 116638. #Co-first author.
 
