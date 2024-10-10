@@ -31,7 +31,7 @@ order: 1
 ### SELECTED PUBLICATIONS 
 <!---* **Ma, S.** and Zhang, Z. (2024). Powerful AI models uncover the mystery of the multi-systemic effects and autoimmunity of systemic lupus erythematosus.-->
 
-* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Local genetic correlation via knockoffs removes confounding due to cross-trait assortative mating.
+* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Local genetic correlation via knockoffs removes confounding due to cross-trait assortative mating. _**American Journal of Human Genetics**_.
 
 * Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) High-dimensional mediation analysis for longitudinal data. _**Briefings in Bioinformatics**_, *Co-corresponding author.
 
