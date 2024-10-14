@@ -37,7 +37,7 @@ order: 1
 
 * Sun, X.#, **Ma, S.**#, Guo, Y.,#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z., and Li, P (2024) [The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility](https://www.sciencedirect.com/science/article/pii/S0147651324007140?via%3Dihub). _**Ecotoxicology and Environmental Safety**_, 281, 116638. #Co-first author.
 
-* Yuan, X., Ma, Y., Gao, R., Cui, S., Fa, B., Wang. Y., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://doi.org/10.1038/s41467-024-49846-1). _**Nature Communications**_, 15, 5700.
+* Yuan, X., Ma, Y., Gao, R., Cui, S., Wang, Y., Fa, B., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://doi.org/10.1038/s41467-024-49846-1). _**Nature Communications**_, 15, 5700.
 
 * **Ma, S.** and Wang, T. (2023). [The optimal pre-post allocation for randomized clinical trials](https://doi.org/10.1186/s12874-023-01893-w). _**BMC Medical Research Methodology**_, 23, 72.
 
