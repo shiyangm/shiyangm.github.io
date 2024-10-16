@@ -92,8 +92,8 @@ _Journal of the American Statistical Association_; _Journal of Applied Statistic
 * 12th International Conference on Bioinformatics and Computational Biology (ICBCB 2024), Tokyo, Japan (03/2024).
 * Tianyuan Mathematics Research Center, Kunming, China (01/2024).
 * 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
-* Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China (11/2023).
-* Department of Biostatistics, Peking University, China (11/2023).
+* Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China (11/2023).
+* Department of Biostatistics, Peking University, Beijing, China (11/2023).
 * Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, Shanghai, China. (10/2023).
 * Joint Conference on Statistics and Data Science in China 2023, Beijing, China (07/2023).
 * The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China (07/2023).
