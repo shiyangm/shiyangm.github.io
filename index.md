@@ -84,6 +84,7 @@ order: 1
 _Journal of the American Statistical Association_; _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
 
 ### INVITED TALKS
+* School of Statistics and Mathematics, Yunnan University of Finance and Economics, Kunming, China (10/2024).
 * School of Mathematical Sciences, Tongji University, Shanghai, China (10/2024).
 * Institute of Statistics and Big Data, Renmin University of China, Beijing, China (10/2024).
 * The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing, China (07/2024).
