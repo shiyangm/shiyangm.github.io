@@ -29,7 +29,7 @@ order: 1
 
 
 ### SELECTED PUBLICATIONS 
-* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating. _**American Journal of Human Genetics**_, 111, 1-10.
+* **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) [Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating](https://doi.org/10.1016/j.ajhg.2024.10.012). _**American Journal of Human Genetics**_, 111, 1-10.
 
 * Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\*, and Yu, Z.\* (2024) [High-dimensional mediation analysis for longitudinal data](https://doi.org/10.1093/bib/bbae496). _**Briefings in Bioinformatics**_, 25, bbae496. *Co-corresponding author.
 
