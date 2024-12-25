@@ -73,6 +73,7 @@ order: 1
 _Journal of the American Statistical Association_; _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
 
 ### INVITED TALKS
+* Center of Statistical Research, Southwestern University of Finance and Economics, Chengdu, China (12/2024).
 * Center for Data Science, Zhejiang University, Hangzhou, China (12/2024).
 * The School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China (12/2024).
 * The 22nd Conference on International Exchange of Professionals, Mathematics and Life Health, Shanghai, China (11/2024).
