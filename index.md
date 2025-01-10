@@ -55,7 +55,6 @@ order: 1
 * Shanghai Rising-Star Program, 23YF1421000, (2023-2026).
 * Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, (2023-2026).
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, (2023-2025).
-* Startup Fund for Young Faculty at Shanghai Jiao Tong University School of Medicine, (2024-2028).
 
 ### TEACHING
 * **Biostatistics (STAT6138)**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
