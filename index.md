@@ -49,8 +49,6 @@ order: 1
 
 * **Ma, S.**\* and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39, 757-772. *Corresponding author.
 
-* Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) [Motor, cognitive, and functional declines contribute to a single progressive factor in early HD.](https://www.neurology.org/doi/10.1212/WNL.0000000000004743) _**Neurology**_, 89, 2495-2502.
-
 ### FUNDING (as PI)
 * The National Natural Science Foundation of China Excellent Young Scholars Fund (Overseas), (2024-2026).
 * Shanghai Rising-Star Program, 23YF1421000, (2023-2026).
