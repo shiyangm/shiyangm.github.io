@@ -52,6 +52,7 @@ order: 1
 * Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) [Motor, cognitive, and functional declines contribute to a single progressive factor in early HD.](https://www.neurology.org/doi/10.1212/WNL.0000000000004743) _**Neurology**_, 89, 2495-2502.
 
 ### FUNDING (as PI)
+* Shanghai Municipal Commission of Education, JWAIYB-3, (2024-2025).
 * The National Natural Science Foundation of China Excellent Young Scholars Fund (Overseas), (2024-2026).
 * Shanghai Rising-Star Program, 23YF1421000, (2023-2026).
 * Clinical Research Project of Shanghai Municipal Health Commission in Health Industry, 20234Y0285, (2023-2026).
