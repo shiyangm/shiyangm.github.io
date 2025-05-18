@@ -74,8 +74,8 @@ order: 1
 _Journal of the American Statistical Association_; _BMC Medical Research Methodology_; _Journal of Applied Statistics_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
 
 ### INVITED TALKS
-* Fuwai Hospital, Chinese Academy of Medical Sciences, Beijing, China, (04/2025).
-* School of Mathematics, Northwest University, Xi'an, China, (04/2025).
+* Fuwai Hospital, Chinese Academy of Medical Sciences, Beijing, China (04/2025).
+* School of Mathematics, Northwest University, Xi'an, China (04/2025).
 * Open Mendel Meeting, University of California Los Angeles, USA (01/2025).
 * Center of Statistical Research, Southwestern University of Finance and Economics, Chengdu, China (12/2024).
 * Center for Data Science, Zhejiang University, Hangzhou, China (12/2024).
