@@ -24,8 +24,8 @@ order: 1
 ### RESEARCH  INTEREST
 * **statistical genetics**
    - developing statistical and computational methods for the analysis of high-dimensional genetic data
-* **clinical trials** 
-   - dose-response studies, adaptive designs, repeated measures designs
+* **biostatistics** 
+   - clinical trials and other biostatistics methods
 
 
 ### SELECTED PUBLICATIONS
