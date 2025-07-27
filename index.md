@@ -78,7 +78,7 @@ order: 1
 _Journal of the American Statistical Association_; _Journal of Applied Statistics_; _BMC Medical Research Methodology_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
 
 ### INVITED TALKS
-* Xinjiang University, Urumqi, China (07/2025).
+* The 3rd Conference on Causal Inference, Xinjiang University, Urumqi, China (07/2025).
 * The 3rd Joint Conference on Statistics and Data Science in China (JCSDS 2025), Hangzhou, China (07/2025).
 * 2025 ICSA China Conference, Zhuhai, China (06/2025).
 * AI for Science, Fudan University, Shanghai, China (06/2025).
