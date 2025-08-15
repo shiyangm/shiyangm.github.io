@@ -28,7 +28,7 @@ order: 1
    - clinical trials and other biostatistics methods
 
 
-### SELECTED PUBLICATIONS (All JCR Q1)
+### SELECTED PUBLICATIONS (JCR Q1)
 * Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2025) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
 
 * Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z.\*, Li, X.\* and Yu, Z.\* (2025) SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies. \#Co-first author.
