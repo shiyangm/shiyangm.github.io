@@ -25,7 +25,7 @@ order: 1
 * **statistical genetics**
    - developing statistical and computational methods for the analysis of high-dimensional genetic data
 * **biostatistics** 
-   - clinical trials and other biostatistics methods
+   - clinical trials and adaptive design
 
 
 ### SELECTED PUBLICATIONS (JCR Q1)
