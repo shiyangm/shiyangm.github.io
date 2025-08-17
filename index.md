@@ -31,13 +31,13 @@ order: 1
 ### SELECTED PUBLICATIONS (JCR Q1)
 * Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2025) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
 
-* Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z.\*, Li, X.\* and Yu, Z.\* (2025) SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies. \#Co-first author.
+* Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2025) SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies. \#Co-first author.
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) [Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating](https://doi.org/10.1016/j.ajhg.2024.10.012). _**The American Journal of Human Genetics**_, 111, 2839-2848.
 
 * Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\* and Yu, Z.\* (2024) [High-dimensional mediation analysis for longitudinal data](https://doi.org/10.1093/bib/bbae496). _**Briefings in Bioinformatics**_, 25, bbae496. *Co-corresponding author.
 
-* Sun, X.\#, **Ma, S.**\#, Guo, Y.,\#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J.\*, Yu, Z.\* and Li, P.\* (2024) [The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility](https://www.sciencedirect.com/science/article/pii/S0147651324007140). _**Ecotoxicology and Environmental Safety**_, 281, 116638. \#Co-first author.
+* Sun, X.\#, **Ma, S.**\#, Guo, Y.,\#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z. and Li, P. (2024) [The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility](https://www.sciencedirect.com/science/article/pii/S0147651324007140). _**Ecotoxicology and Environmental Safety**_, 281, 116638. \#Co-first author.
 
 * Yuan, X., Ma, Y., Gao, R., Cui, S., Wang, Y., Fa, B., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://doi.org/10.1038/s41467-024-49846-1). _**Nature Communications**_, 15, 5700.
 
