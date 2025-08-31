@@ -23,12 +23,16 @@ order: 1
 
 ### RESEARCH  INTEREST
 * **statistical genetics**
-   - developing statistical and computational methods for the analysis of high-dimensional genetic data
+   - developing statistical and computational methods for the analysis of high-dimensional genetic and genomic data
 * **biostatistics** 
-   - clinical trials and adaptive design
+   - clinical trials, adaptive designs and repeated measures designs
 
 
 ### SELECTED PUBLICATIONS (JCR Q1)
+* Huang, S., Ran, Q., Wang, X., Tang, J., **Ma, S.**\* and Xi, R.\* (2025). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. *Co-corresponding author.
+
+* Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2025). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
+
 * Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2025) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
 
 * Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2025) SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies. \#Co-first author.
