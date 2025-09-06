@@ -69,6 +69,7 @@ order: 1
 * Fundamental Research Funds for the Central Universities, YG2023QNA01, (2023-2025).
 
 ### TEACHING
+* **Survival analysis (MATH4705)**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2025)
 * **Biostatistics (STAT6138)**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
 * **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Fall 2024, Guest lecturer)
 * **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Spring 2024, Guest lecturer)
