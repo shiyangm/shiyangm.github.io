@@ -29,7 +29,7 @@ order: 1
 
 
 ### SELECTED PUBLICATIONS (JCR Q1)
-* Huang, S., Ran, Q., Wang, X., Tang, J., **Ma, S.**\* and Xi, R.\* (2025). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. *Co-corresponding author.
+* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2025). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. *Co-corresponding author.
 
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2025). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
 
