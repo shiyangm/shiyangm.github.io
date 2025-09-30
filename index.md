@@ -120,6 +120,10 @@ _Journal of the American Statistical Association_; _Journal of Applied Statistic
 * Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (06/2022).
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
 
+### STUDENTS
+* Changle Liu, PhD student, Joint supervised with Prof. Tao Wang (2026/9 -- present)
+* Jingmin Yan, Mater student, Joint supervised with Prof. Tao Zhang (2022/9 -- 2025/6)
+      
 ### CONTACT
 Room 709, East 2nd building,
 227 South Chongqing Road,
