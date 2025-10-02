@@ -61,7 +61,7 @@ order: 1
 
 * He, Z., Guen, Y. L., Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Belloy, M. E., Butler, R. R., Longo, F. M., Tang, H., Mormino, E. C., Wyss-Coray, T., Greicius, M. D. and Ionita-Laza, I. (2021) [Genome-wide analysis of common and rare variants via multiple knockoffs at biobank scale, with an application to Alzheimer disease genetics.](https://doi.org/10.1016/j.ajhg.2021.10.009) _**The American Journal of Human Genetics**_, 108, 2336-2353.
 
-* **Ma, S.**\* and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39, 757-772.  (JCR Q1)*Corresponding author.
+* **Ma, S.**\* and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39, 757-772. *Corresponding author.
 
 * Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) [Motor, cognitive, and functional declines contribute to a single progressive factor in early HD.](https://www.neurology.org/doi/10.1212/WNL.0000000000004743) _**Neurology**_, 89, 2495-2502.
 
