@@ -28,7 +28,7 @@ order: 1
    - clinical trials, adaptive designs and repeated measures designs
 
 
-### SELECTED PUBLICATIONS (JCR Q1)
+### SELECTED PUBLICATIONS
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2025). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
 
 * Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2025) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
