@@ -7,9 +7,10 @@ order: 1
 ---
 
 ### EXPERIENCE
-* Associate Professor (2024-present), School of Medicine, School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China
-* Assistant Professor (2022-2023), School of Medicine, Shanghai Jiao Tong University, Shanghai, China
-* Postdoctoral Research Scientist (2019-2022), Department of Biostatistics, Columbia University, New York, NY
+* Associate Director (2025/10-present), Institute of Clinical Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai, China
+* Associate Professor (2024/1-present), School of Medicine, School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China
+* Assistant Professor (2022/11-2023/12), School of Medicine, Shanghai Jiao Tong University, Shanghai, China
+* Postdoctoral Research Scientist (2019/10-2022/09), Department of Biostatistics, Columbia University, New York, NY
     - Supervisor: [Prof. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 
 
@@ -31,13 +32,13 @@ order: 1
 ### SELECTED PUBLICATIONS
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2025). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
 
-* Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2025) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
-
 * Hu, L., Chang, Z., Tang, Z., Yang, C., **Ma, S.** and Zhang, T. (2025). Independent and joint association of smoking status and obesity with accelerated aging.
 
-* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2025). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. *Co-corresponding author.
+* Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2025) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
 
 * Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2025). Introduction to Secure Data Sharing in Primary Care Using the Federated Causal Learning Models.
+
+* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2025). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. *Co-corresponding author.
 
 * Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2025) SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies. _**Journal of the American Statistical Association**_. \#Co-first author.
 
@@ -89,6 +90,7 @@ order: 1
 _Journal of the American Statistical Association_; _Journal of Applied Statistics_; _BMC Medical Research Methodology_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
 
 ### INVITED TALKS
+* Shanghai Society for Bioinformatics, Fudan University, Shanghai, China (11/2025).
 * The 3rd Conference on Causal Inference, Xinjiang University, Urumqi, China (07/2025).
 * The 3rd Joint Conference on Statistics and Data Science in China (JCSDS 2025), Hangzhou, China (07/2025).
 * 2025 ICSA China Conference, Zhuhai, China (06/2025).
@@ -122,9 +124,9 @@ _Journal of the American Statistical Association_; _Journal of Applied Statistic
 * Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (06/2022).
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
 
-### STUDENTS
-* Changle Liu, PhD student, Joint supervised with Prof. Tao Wang (2026/9 -- present)
-* Jingmin Yan, Mater student, Joint supervised with Prof. Tao Zhang (2022/9 -- 2025/6)
+### PhD Students
+* Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (2026/9 -- present)
+* Bonan Ding, M.D. student (2025/9 -- present)
       
 ### CONTACT
 Room 709, East 2nd building,
