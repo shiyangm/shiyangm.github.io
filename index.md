@@ -90,39 +90,39 @@ order: 1
 _Journal of the American Statistical Association_; _Journal of Applied Statistics_; _BMC Medical Research Methodology_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
 
 ### INVITED TALKS
-* Shanghai Society for Bioinformatics, Fudan University, Shanghai, China (11/2025).
-* The 3rd Conference on Causal Inference, Xinjiang University, Urumqi, China (07/2025).
-* The 3rd Joint Conference on Statistics and Data Science in China (JCSDS 2025), Hangzhou, China (07/2025).
-* 2025 ICSA China Conference, Zhuhai, China (06/2025).
-* AI for Science, Fudan University, Shanghai, China (06/2025).
-* Fuwai Hospital, Chinese Academy of Medical Sciences, Beijing, China (04/2025).
-* School of Mathematics, Northwest University, Xi'an, China (04/2025).
-* Open Mendel Meeting, University of California Los Angeles, USA (01/2025).
-* Center of Statistical Research, Southwestern University of Finance and Economics, Chengdu, China (12/2024).
-* Center for Data Science, Zhejiang University, Hangzhou, China (12/2024).
-* The School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China (12/2024).
-* The 22nd Conference on International Exchange of Professionals, Mathematics and Life Health, Shanghai, China (11/2024).
-* School of Statistics and Mathematics, Yunnan University of Finance and Economics, Kunming, China (10/2024).
-* School of Mathematical Sciences, Tongji University, Shanghai, China (10/2024).
-* Institute of Statistics and Big Data, Renmin University of China, Beijing, China (10/2024).
-* The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing, China (07/2024).
-* The 2nd Joint Conference on Statistics and Data Science in China (JCSDS 2024), Kunming, China (07/2024).
-* School of Mathematics and Statistics, Northeast Normal University, Changchun, China (06/2024).
-* Institute of Statistics and Big Data, Renmin University of China, Beijing, China (05/2024).
-* 12th International Conference on Bioinformatics and Computational Biology (ICBCB 2024), Tokyo, Japan (03/2024).
-* Tianyuan Mathematics Research Center, Kunming, China (01/2024).
-* 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (12/2023).
-* Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China (11/2023).
-* Department of Biostatistics, Peking University, Beijing, China (11/2023).
-* Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, Shanghai, China. (10/2023).
-* Joint Conference on Statistics and Data Science in China 2023, Beijing, China (07/2023).
-* The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China (07/2023).
-* ICSA 2023 China Conference, Chengdu, China (06/2023).
-* Center for Statistical Science, Tsinghua University, Beijing, China (05/2023).
-* School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China (03/2023).
-* Department of Biostatistics, City University of Hong Kong, China (11/2022).
-* Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (06/2022).
-* The 34th New England Statistics Symposium, Hybrid conference, USA  (10/2021).
+* Shanghai Society for Bioinformatics, Fudan University, Shanghai, China (2025/11).
+* The 3rd Conference on Causal Inference, Xinjiang University, Urumqi, China (2025/07).
+* The 3rd Joint Conference on Statistics and Data Science in China (JCSDS 2025), Hangzhou, China (2025/07).
+* 2025 ICSA China Conference, Zhuhai, China (2025/06).
+* AI for Science, Fudan University, Shanghai, China (2025/06).
+* Fuwai Hospital, Chinese Academy of Medical Sciences, Beijing, China (2025/04).
+* School of Mathematics, Northwest University, Xi'an, China (2025/04).
+* Open Mendel Meeting, University of California Los Angeles, USA (2025/01).
+* Center of Statistical Research, Southwestern University of Finance and Economics, Chengdu, China (2024/12).
+* Center for Data Science, Zhejiang University, Hangzhou, China (2024/12).
+* The School of Statistics and Management, Shanghai University of Finance and Economics, Shanghai, China (2024/12).
+* The 22nd Conference on International Exchange of Professionals, Mathematics and Life Health, Shanghai, China (2024/11).
+* School of Statistics and Mathematics, Yunnan University of Finance and Economics, Kunming, China (2024/10).
+* School of Mathematical Sciences, Tongji University, Shanghai, China (2024/10).
+* Institute of Statistics and Big Data, Renmin University of China, Beijing, China (2024/10).
+* The 7th International Conference on Econometrics and Statistics (EcoSta 2024), Beijing, China (2024/07).
+* The 2nd Joint Conference on Statistics and Data Science in China (JCSDS 2024), Kunming, China (2024/07).
+* School of Mathematics and Statistics, Northeast Normal University, Changchun, China (2024/06).
+* Institute of Statistics and Big Data, Renmin University of China, Beijing, China (2024/05).
+* 12th International Conference on Bioinformatics and Computational Biology (ICBCB 2024), Tokyo, Japan (2024/03).
+* Tianyuan Mathematics Research Center, Kunming, China (2024/01).
+* 16th International Conference of the ERCIM WG on Computational and Methodological Statistics, Berlin, Germany (2023/12).
+* Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China (2023/11).
+* Department of Biostatistics, Peking University, Beijing, China (2023/11).
+* Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, Shanghai, China. (2023/10).
+* Joint Conference on Statistics and Data Science in China 2023, Beijing, China (2023/07).
+* The Second International Workshop on Statistical Theory and Related Fields, Tianjin, China (2023/07).
+* ICSA 2023 China Conference, Chengdu, China (2023/06).
+* Center for Statistical Science, Tsinghua University, Beijing, China (2023/05).
+* School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China (2023/03).
+* Department of Biostatistics, City University of Hong Kong, China (2022/11).
+* Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (2022/06).
+* The 34th New England Statistics Symposium, Hybrid conference, USA  (2021/10).
 
 ### PhD Students
 * Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (2026/9 -- present)
