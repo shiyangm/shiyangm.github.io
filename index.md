@@ -87,7 +87,7 @@ order: 1
 *  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
 
 ### Journal Review
-_Journal of the American Statistical Association_; _Journal of Applied Statistics_; _BMC Medical Research Methodology_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _Biostatistics and Epidemiology_; _F1000Research_; _Journal of Digestive Diseases_, _Epidemiology and Infection_
+_Journal of the American Statistical Association_; _Briefings in Bioinformatics_; _BMC Medical Research Methodology_; _Statistics in Biopharmaceutical Research_; _Epidemiology and Infection_; _F1000Research_; _Journal of Applied Statistics_;  _Clinical Trials: Journal of the Society for Clinical Trials_; _Journal of Digestive Diseases_; _Biostatistics and Epidemiology_
 
 ### INVITED TALKS
 * Shanghai Society for Bioinformatics, Fudan University, Shanghai, China (2025/11).
