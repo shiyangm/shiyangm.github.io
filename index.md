@@ -9,7 +9,7 @@ order: 1
 ### EXPERIENCE
 * Associate Director (2025/10-present), Institute of Clinical Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai, China
 * Associate Professor (2024/1-present), School of Medicine, School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China
-* Assistant Professor (2022/11-2023/12), School of Medicine, Shanghai Jiao Tong University, Shanghai, China
+* Assistant Professor (2022/11-2023/12), Clinical Research Institute, Shanghai Jiao Tong University School of Medicine, Shanghai, China
 * Postdoctoral Research Scientist (2019/10-2022/09), Department of Biostatistics, Columbia University, New York, NY
     - Supervisor: [Prof. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 
