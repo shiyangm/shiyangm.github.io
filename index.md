@@ -7,7 +7,6 @@ order: 1
 ---
 
 ### EXPERIENCE
-* Associate Director (2025/10-present), Institute of Clinical Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai, China
 * Associate Professor (2024/1-present), Institute of Clinical Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai, China
     - Affiliated with School of Mathematical Sciences, Shanghai Jiao Tong University
 * Assistant Professor (2022/11-2023/12), Institute of Clinical Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai, China
@@ -33,15 +32,11 @@ order: 1
 ### SELECTED PUBLICATIONS
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2025). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
 
-* Hu, L., Chang, Z., Tang, Z., Yang, C., **Ma, S.** and Zhang, T. (2025). Independent and joint association of smoking status and obesity with accelerated aging.
-
 * Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2025) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
-
-* Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2025). Introduction to Secure Data Sharing in Primary Care Using the Federated Causal Learning Models.
 
 * Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2025). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. *Co-corresponding author.
 
-* Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2025) SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies. _**Journal of the American Statistical Association**_. \#Co-first author.
+* Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2025) [SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies](https://doi.org/10.1080/01621459.2025.2606388). _**Journal of the American Statistical Association**_. \#Co-first author.
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) [Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating](https://doi.org/10.1016/j.ajhg.2024.10.012). _**The American Journal of Human Genetics**_, 111, 2839-2848.
 
