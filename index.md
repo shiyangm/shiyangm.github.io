@@ -33,7 +33,7 @@ order: 1
 
 * Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2026) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
 
-* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. *Co-corresponding author.
+* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. _**Genome Biology**_. *Co-corresponding author.
 
 * Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2025) [SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies](https://doi.org/10.1080/01621459.2025.2606388). _**Journal of the American Statistical Association**_. \#Co-first author.
 
