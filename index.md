@@ -29,9 +29,9 @@ order: 1
 
 
 ### SELECTED PUBLICATIONS
-* Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
-
 * Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2026) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
+
+* Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
 
 * Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. _**Genome Biology**_. *Co-corresponding author.
 
