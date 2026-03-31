@@ -35,6 +35,8 @@ order: 1
 
 * Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. _**Genome Biology**_. *Co-corresponding author.
 
+* Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2026). [Introduction to secure data sharing in primary care using the federated causal learning models](https://informatics.bmj.com/content/33/1/e101543). _**BMJ Health & Care Informatics**_ 33, e101543.
+
 * Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2025) [SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies](https://doi.org/10.1080/01621459.2025.2606388). _**Journal of the American Statistical Association**_. \#Co-first author.
 
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) [Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating](https://doi.org/10.1016/j.ajhg.2024.10.012). _**The American Journal of Human Genetics**_, 111, 2839-2848.
