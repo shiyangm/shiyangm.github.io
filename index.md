@@ -33,7 +33,7 @@ order: 1
 
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). Cox-MK: a model-X knockoff method for genome-wide survival association analysis. *Co-corresponding author.
 
-* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data. _**Genome Biology**_. *Co-corresponding author.
+* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). [SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data](https://doi.org/10.1186/s13059-026-04069-z). _**Genome Biology**_. *Co-corresponding author.
 
 * Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2026). [Introduction to secure data sharing in primary care using the federated causal learning models](https://informatics.bmj.com/content/33/1/e101543). _**BMJ Health & Care Informatics**_ 33, e101543.
 
@@ -81,6 +81,8 @@ order: 1
 _Journal of the American Statistical Association_; _Briefings in Bioinformatics_; _Statistics in Medicine_; _BMC Medical Research Methodology_; _Statistics in Biopharmaceutical Research_; _Epidemiology and Infection_; _F1000Research_; _Journal of Applied Statistics_;  _Clinical Trials: Journal of the Society for Clinical Trials_; _Journal of Digestive Diseases_; _Biostatistics and Epidemiology_
 
 ### INVITED TALKS
+* The 10th Academic Symposium of the High-Dimensional Data Statistics Section, Chinese Association for Applied Statistics, Qingdao, China (2026/4).
+* Department of Biostatistics, Peking University, Beijing, China (2026/4).
 * Shanghai Society for Bioinformatics, Fudan University, Shanghai, China (2025/11).
 * The 3rd Conference on Causal Inference, Xinjiang University, Urumqi, China (2025/07).
 * The 3rd Joint Conference on Statistics and Data Science in China (JCSDS 2025), Hangzhou, China (2025/07).
