@@ -81,8 +81,9 @@ order: 1
 _Journal of the American Statistical Association_; _Briefings in Bioinformatics_; _Statistics in Medicine_; _BMC Medical Research Methodology_; _Statistics in Biopharmaceutical Research_; _Epidemiology and Infection_; _F1000Research_; _Journal of Applied Statistics_;  _Clinical Trials: Journal of the Society for Clinical Trials_; _Journal of Digestive Diseases_; _Biostatistics and Epidemiology_
 
 ### INVITED TALKS
-* The 10th Academic Symposium of the High-Dimensional Data Statistics Section, Chinese Association for Applied Statistics, Qingdao, China (2026/4).
-* Department of Biostatistics, Peking University, Beijing, China (2026/4).
+* The 10th Academic Symposium of the High-Dimensional Data Statistics Section, Chinese Association for Applied Statistics, Qingdao, China (2026/04).
+* Department of Biostatistics, Peking University, Beijing, China (2026/04).
+* The 2nd Workshop on Core Course Textbook Development for the Statistics “101 Plan”, Guilin, China (2026/03).
 * Shanghai Society for Bioinformatics, Fudan University, Shanghai, China (2025/11).
 * The 3rd Conference on Causal Inference, Xinjiang University, Urumqi, China (2025/07).
 * The 3rd Joint Conference on Statistics and Data Science in China (JCSDS 2025), Hangzhou, China (2025/07).
