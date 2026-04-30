@@ -119,8 +119,8 @@ _Journal of the American Statistical Association_; _Briefings in Bioinformatics_
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (2021/10).
 
 ### PhD Students
-* Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (2026/9 -- present)
-* Bonan Ding, M.D. student, Joint supervised with Prof. Gang Wang (2025/9 -- present)
+* Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (Grade 2026)
+* Bonan Ding, M.D. student, Joint supervised with Prof. Gang Wang (Grade 2025)
       
 ### CONTACT
 Room 709, East 2nd building,
