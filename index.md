@@ -33,7 +33,7 @@ order: 1
 
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). [Cox-MK: a model-X knockoff method for genome-wide survival association analysis](https://doi.org/10.1093/genetics/iyag123). _**Genetics**_, DOI: 10.1093/genetics/iyag123. *Co-corresponding author.
 
-* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). [SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data](https://doi.org/10.1186/s13059-026-04069-z). _**Genome Biology**_. *Co-corresponding author.
+* Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). [SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data](https://doi.org/10.1186/s13059-026-04069-z). _**Genome Biology**_. DOI: 10.1186/s13059-026-04069-z. *Co-corresponding author.
 
 * Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2026). [Introduction to secure data sharing in primary care using the federated causal learning models](https://informatics.bmj.com/content/33/1/e101543). _**BMJ Health & Care Informatics**_ 33, e101543.
 
