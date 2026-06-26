@@ -29,7 +29,7 @@ order: 1
 
 
 ### SELECTED PUBLICATIONS
-* Chen, M., Hu, L., **Ma, S.**\* and Zhang, T.* (2026) A two-stage pooled propensity score model of causal inference for multilevel data. *Co-corresponding author.
+* Shen, Y., Wang, T.* and **Ma, S.**\* KnockoffPipeline: an R package for knockoff-based genome-wide association analysis. *Corresponding author.
 
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). [Cox-MK: a model-X knockoff method for genome-wide survival association analysis](https://doi.org/10.1093/genetics/iyag123). _**Genetics**_, DOI: 10.1093/genetics/iyag123. *Co-corresponding author.
 
