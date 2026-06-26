@@ -52,8 +52,6 @@ order: 1
 * **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2023). [BIGKnock: fine-mapping gene-based associations via knockoff analysis of biobank-scale data](https://doi.org/10.1186/s13059-023-02864-6). _**Genome Biology**_, 24, 24.
 
 * He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Gyawali, P. K., Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) [GhostKnockoff inference empowers identification of putative causal variants in genome-wide association studies](https://doi.org/10.1038/s41467-022-34932-z). _**Nature Communications**_, 13, 7209.
-  
-* **Ma, S**.\* and McDermott, M. P. (2022). [Adaptive dose-response studies to establish proof-of-concept in learning-phase clinical trials.](https://doi.org/10.1002/bimj.202100044) _**Biometrical Journal**_, 64, 146-164. *Corresponding author.
 
 * **Ma, S.**, Dalgleish, J., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W. K., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). [Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.](https://doi.org/10.1073/pnas.2105191118) _**Proceedings of the National Academy of Sciences of the United States of America**_, 118, e2105191118.
 
