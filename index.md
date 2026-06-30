@@ -79,6 +79,7 @@ order: 1
 _Journal of the American Statistical Association_; _Annals of Applied Statistics_; _Statistics in Medicine_; _Briefings in Bioinformatics_; _BMC Medical Research Methodology_; _Statistics in Biopharmaceutical Research_; _Epidemiology and Infection_; _F1000Research_; _Journal of Applied Statistics_;  _Clinical Trials: Journal of the Society for Clinical Trials_; _Journal of Digestive Diseases_; _Biostatistics and Epidemiology_
 
 ### INVITED TALKS
+* School of Mathematical Sciences, Shenzhen University, Shenzhen, China (2026/06).
 * 2026 ICSA China Conference, Shenzhen, China (2026/06).
 * 2026 International Conference on Frontiers of Data Science, Hangzhou, China (2026/05).
 * The 10th Academic Symposium of the High-Dimensional Data Statistics Section, Chinese Association for Applied Statistics, Qingdao, China (2026/04).
