@@ -29,6 +29,8 @@ order: 1
 
 
 ### SELECTED PUBLICATIONS
+* Wang, Y., Huang, D., **Ma, S.**, Cui, Y., Yuan, X., Gao, R., Sun, X., Xia, Y., Zhang, Y., Li, P. and Yu, Z. AI-enabled opportunistic screening of cerebral small vessel disease using large-scale routine clinical data.
+
 * Shen, Y., Wang, T.* and **Ma, S.**\* KnockoffPipeline: an R package for knockoff-based genome-wide association analysis. *Corresponding author.
 
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). [Cox-MK: a model-X knockoff method for genome-wide survival association analysis](https://doi.org/10.1093/genetics/iyag123). _**Genetics**_, DOI: 10.1093/genetics/iyag123. *Co-corresponding author.
