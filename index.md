@@ -129,6 +129,7 @@ _Journal of the American Statistical Association_; _Annals of Applied Statistics
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (2021/10).
 
 ### PhD Students
+* Jiaxun Guo, Ph.D. student (Grade 2027)
 * Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (Grade 2026)
 * Bonan Ding, M.D. student, Joint supervised with Prof. Gang Wang (Grade 2025)
       
