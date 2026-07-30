@@ -30,41 +30,23 @@ order: 1
 
 ### SELECTED PUBLICATIONS
 * Bai, Y., Guan, X., Xiong, S., Guo, X., Wang, X., Yi, S., Ju, W., **Ma, S.**, Dong, Q. and Liu, W. (2026). Deciphering spatial cellular organization through RNA-anchored multi-omics deconvolution.
-
 * Niu, T., Yu, K., Luo, S. and **Ma, S.** (2026). MARV: MultivAriate exponential family-based SKAT and Burden tests for Rare Variant association analysis. 
-
 * Wang, Y., Huang, D., **Ma, S.**, Cui, Y., Yuan, X., Gao, R., Sun, X., Xia, Y., Zhang, Y., Li, P. and Yu, Z. (2026). AI-enabled opportunistic screening of cerebral small vessel disease using large-scale routine clinical data.
-
 * Shen, Y., Wang, T.* and **Ma, S.**\* (2026). KnockoffPipeline: an R package for knockoff-based genome-wide association analysis. *Corresponding author.
-
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). [Cox-MK: a model-X knockoff method for genome-wide survival association analysis](https://doi.org/10.1093/genetics/iyag123). _**Genetics**_, DOI: 10.1093/genetics/iyag123. *Co-corresponding author.
-
 * Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). [SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data](https://doi.org/10.1186/s13059-026-04069-z). _**Genome Biology**_, 27, 182. *Co-corresponding author.
-
 * Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2026). [Introduction to secure data sharing in primary care using the federated causal learning models](https://informatics.bmj.com/content/33/1/e101543). _**BMJ Health & Care Informatics**_ 33, e101543.
-
 * Cui, Y.\#, **Ma, S.**\#, Yuan, Y., Zhu, N., Chen, H., Wei, T., Li, Z., Li, X. and Yu, Z. (2026) [SurvSTAAR: A powerful statistical framework for rare variant analysis of time-to-event traits in large-scale whole-genome sequencing studies](https://doi.org/10.1080/01621459.2025.2606388). _**Journal of the American Statistical Association**_, DOI: 10.1080/01621459.2025.2606388. \#Co-first author.
-
 * **Ma, S.**, Wang, F., Border, R., Buxbaum, J., Zaitlen, N. and Ionita-Laza, I. (2024) [Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating](https://doi.org/10.1016/j.ajhg.2024.10.012). _**The American Journal of Human Genetics**_, 111, 2839-2848.
-
 * Cui, Y., Lin, Q., Zhou, J., Yuan, X., **Ma, S.**\* and Yu, Z.\* (2024) [High-dimensional mediation analysis for longitudinal data](https://doi.org/10.1093/bib/bbae496). _**Briefings in Bioinformatics**_, 25, bbae496. *Co-corresponding author.
-
 * Sun, X.\#, **Ma, S.**\#, Guo, Y.,\#, Chen, C., Pan, L., Cui, Y., Chen, Z., Dijkhuizen, R. M., Zhou, Y., Boltze, J., Yu, Z. and Li, P. (2024) [The association between air pollutant exposure and cerebral small vessel disease with modifying effects of PRS-defined genetic susceptibility](https://www.sciencedirect.com/science/article/pii/S0147651324007140). _**Ecotoxicology and Environmental Safety**_, 281, 116638. \#Co-first author.
-
 * Yuan, X., Ma, Y., Gao, R., Cui, S., Wang, Y., Fa, B., **Ma, S.**, Wei, T., Ma, S. and Yu, Z. (2024) [HEARTSVG: a fast and accurate method for spatially variable gene identification in large-scale spatial transcriptomic data](https://doi.org/10.1038/s41467-024-49846-1). _**Nature Communications**_, 15, 5700.
-
 * **Ma, S.** and Wang, T. (2023). [The optimal pre-post allocation for randomized clinical trials](https://doi.org/10.1186/s12874-023-01893-w). _**BMC Medical Research Methodology**_, 23, 72.
-
 * **Ma, S.**, Wang, C., Khan, A., Liu, L., Dalgleish, J., Kiryluk, K., He, Z. and Ionita-Laza, I. (2023). [BIGKnock: fine-mapping gene-based associations via knockoff analysis of biobank-scale data](https://doi.org/10.1186/s13059-023-02864-6). _**Genome Biology**_, 24, 24.
-
 * He, Z., Liu, L., Belloy, M. E., Guen, Y. L., Sossin, A., Liu. X., Qi. X, **Ma, S.**, Gyawali, P. K., Wyss-Coray, T., Tang, H., Sabatti, C., Candès, E., Greicius, M. D. and Ionita-Laza, I. (2022) [GhostKnockoff inference empowers identification of putative causal variants in genome-wide association studies](https://doi.org/10.1038/s41467-022-34932-z). _**Nature Communications**_, 13, 7209.
-
 * **Ma, S.**, Dalgleish, J., Lee, J., Wang, C., Liu, L., Gill, R., Buxbaum, J. D., Chung, W. K., Aschard, H., Silverman, E. K., Cho, M. H., He, Z. and Ionita-Laza, I. (2021). [Powerful gene-based testing by integrating long-range chromatin interactions and knockoff genotypes.](https://doi.org/10.1073/pnas.2105191118) _**Proceedings of the National Academy of Sciences of the United States of America**_, 118, e2105191118.
-
 * He, Z., Guen, Y. L., Liu, L., Lee, J., **Ma, S.**, Yang, A. C.,  Liu. X., Rutledge, J., Losada, P. M., Song, B., Belloy, M. E., Butler, R. R., Longo, F. M., Tang, H., Mormino, E. C., Wyss-Coray, T., Greicius, M. D. and Ionita-Laza, I. (2021) [Genome-wide analysis of common and rare variants via multiple knockoffs at biobank scale, with an application to Alzheimer disease genetics.](https://doi.org/10.1016/j.ajhg.2021.10.009) _**The American Journal of Human Genetics**_, 108, 2336-2353.
-
 * **Ma, S.**\* and McDermott, M. P. (2020). [Generalized multiple contrast tests in dose-response studies.](https://doi.org/10.1002/sim.8444) _**Statistics in Medicine**_, 39, 757-772. *Corresponding author.
-
 * Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) [Motor, cognitive, and functional declines contribute to a single progressive factor in early HD.](https://www.neurology.org/doi/10.1212/WNL.0000000000004743) _**Neurology**_, 89, 2495-2502.
 
 ### TEACHING
