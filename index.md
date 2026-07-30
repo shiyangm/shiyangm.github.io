@@ -29,6 +29,10 @@ order: 1
 
 
 ### SELECTED PUBLICATIONS
+* Bai, Y., Guan, X., Xiong, S., Guo, X., Wang, X., Yi, S., Ju, W., **Ma, S.**, Dong, Q. and Liu, W. (2026). Deciphering spatial cellular organization through RNA-anchored multi-omics deconvolution.
+
+* Niu, T., Yu, K., Luo, S. and **Ma, S.** (2026). MARV: MultivAriate exponential family-based SKAT and Burden tests for Rare Variant association analysis. 
+
 * Wang, Y., Huang, D., **Ma, S.**, Cui, Y., Yuan, X., Gao, R., Sun, X., Xia, Y., Zhang, Y., Li, P. and Yu, Z. (2026). AI-enabled opportunistic screening of cerebral small vessel disease using large-scale routine clinical data.
 
 * Shen, Y., Wang, T.* and **Ma, S.**\* (2026). KnockoffPipeline: an R package for knockoff-based genome-wide association analysis. *Corresponding author.
