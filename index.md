@@ -12,7 +12,6 @@ order: 1
 * Postdoctoral Research Scientist (2019/10-2022/09), Department of Biostatistics, Columbia University, New York, NY
     - Supervisor: [Prof. Iuliana Ionita-Laza](http://www.columbia.edu/~ii2135/)  
 
-
 ### EDUCATION 
 *  Ph.D. in Statistics (2019), Department of Biostatistics and Computational Biology, University of Rochester, Rochester, NY  
     - Advisors: [Prof. Michael P. McDermott](https://www.urmc.rochester.edu/biostat/people/faculty/mcdermott.aspx) and [Prof. David Oakes](https://www.urmc.rochester.edu/biostat/people/faculty/oakes.aspx)       
@@ -20,13 +19,11 @@ order: 1
 *  M.A. in Statistics (2016), Department of Biostatistics and Computational Biology, University of Rochester, Rochester, NY    
 *  B.S. in Mathematics (2014), Department of Mathematics, Sichuan University, Chengdu, China
 
-
 ### RESEARCH  INTEREST
 * **statistical genetics**
    - developing statistical and computational methods for the analysis of high-dimensional genetic and genomic data
 * **biostatistics** 
    - clinical trials, adaptive designs and repeated measures designs
-
 
 ### SELECTED PUBLICATIONS
 * Bai, Y., Guan, X., Xiong, S., Guo, X., Wang, X., Yi, S., Ju, W., **Ma, S.**, Dong, Q. and Liu, W. (2026). Deciphering spatial cellular organization through RNA-anchored multi-omics deconvolution.
