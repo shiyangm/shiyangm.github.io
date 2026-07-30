@@ -119,7 +119,6 @@ _Journal of the American Statistical Association_; _Annals of Applied Statistics
 Room 709, East 2nd building,
 227 South Chongqing Road,
 Shanghai, 200025, China  
-
 **Email**: mashiyang1991@sjtu.edu.cn
 
 I am recruiting highly motivated Ph.D. students and postdoctoral researchers. Please email me if you are interested.
