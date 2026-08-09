@@ -19,11 +19,11 @@ order: 1
 *  M.A. in Statistics (2016), Department of Biostatistics and Computational Biology, University of Rochester, Rochester, NY    
 *  B.S. in Mathematics (2014), Department of Mathematics, Sichuan University, Chengdu, China
 
-### RESEARCH  INTEREST
-* **statistical genetics**
-   - developing statistical and computational methods for the analysis of high-dimensional genetic and genomic data
-* **biostatistics** 
-   - variable selection and clinical trials
+### RESEARCH INTERESTS
+* **Statistical genetics**
+   - Development of statistical and computational methods for analyzing high-dimensional genetic and genomic data
+* **Biostatistics** 
+   - Development and application of statistical methods for variable selection and clinical research
      
 ### SELECTED PUBLICATIONS
 * Bai, Y., Guan, X., Xiong, S., Guo, X., Wang, X., Yi, S., Ju, W., **Ma, S.**, Dong, Q. and Liu, W. (2026). Deciphering spatial cellular organization through RNA-anchored multi-omics deconvolution.
