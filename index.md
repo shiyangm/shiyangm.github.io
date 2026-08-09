@@ -23,8 +23,8 @@ order: 1
 * **statistical genetics**
    - developing statistical and computational methods for the analysis of high-dimensional genetic and genomic data
 * **biostatistics** 
-   - clinical trials, adaptive designs and repeated measures designs
-
+   - variable selection and clinical trials
+     
 ### SELECTED PUBLICATIONS
 * Bai, Y., Guan, X., Xiong, S., Guo, X., Wang, X., Yi, S., Ju, W., **Ma, S.**, Dong, Q. and Liu, W. (2026). Deciphering spatial cellular organization through RNA-anchored multi-omics deconvolution.
 * Niu, T., Yu, K., Luo, S. and **Ma, S.** (2026). MARV: MultivAriate exponential family-based SKAT and Burden tests for Rare Variant association analysis. 
