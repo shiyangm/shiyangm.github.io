@@ -61,7 +61,7 @@ order: 1
 * **[GeneScan3DKnock](https://github.com/Iuliana-Ionita-Laza/GeneScan3DKnock)**: An R package for performing improved gene-based testing by integrating long-range chromatin interactions, along with knockoff-enhanced tests.
 *  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
 
-### Journal Review
+### JOURNAL REVIEW
 _Journal of the American Statistical Association_; _Annals of Applied Statistics_; _Statistics in Medicine_; _Briefings in Bioinformatics_; _BMC Medical Research Methodology_; _Statistics in Biopharmaceutical Research_; _Epidemiology and Infection_; _F1000Research_; _Journal of Applied Statistics_;  _Clinical Trials: Journal of the Society for Clinical Trials_; _Journal of Digestive Diseases_; _Biostatistics and Epidemiology_
 
 ### INVITED TALKS
@@ -107,7 +107,7 @@ _Journal of the American Statistical Association_; _Annals of Applied Statistics
 * Department of Bioinformatics and Biostatistics, Shanghai Jiao Tong University, China (2022/06).
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (2021/10).
 
-### PhD Students
+### PHD STUDENTS
 * Jiaxun Guo, Ph.D. student (Grade 2027)
 * Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (Grade 2026)
 * Bonan Ding, M.D. student, Joint supervised with Prof. Gang Wang (Grade 2025)
