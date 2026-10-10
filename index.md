@@ -29,7 +29,7 @@ order: 1
 * Bai, Y., Guan, X., Xiong, S., Guo, X., Wang, X., Yi, S., Ju, W., **Ma, S.**, Dong, Q. and Liu, W. (2026). Deciphering spatial cellular organization through RNA-anchored multi-omics deconvolution.
 * Niu, T., Yu, K., Luo, S. and **Ma, S.** (2026). MARV: MultivAriate exponential family-based SKAT and Burden tests for Rare Variant association analysis. 
 * Wang, Y., Huang, D., **Ma, S.**, Cui, Y., Yuan, X., Gao, R., Sun, X., Xia, Y., Zhang, Y., Li, P. and Yu, Z. (2026). AI-enabled opportunistic screening of cerebral small vessel disease using large-scale routine clinical data.
-* Shen, Y., Wang, T.* and **Ma, S.**\* (2026). KnockoffPipeline: an R package for knockoff-based genome-wide association analysis. *Corresponding author.
+* Shen, Y., Wang, T.* and **Ma, S.**\* (2026). KnockoffPipeline: A Unified R Workflow for Knockoff-Based Genome-Wide Association Analysis. *Corresponding author.
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). [Cox-MK: a model-X knockoff method for genome-wide survival association analysis](https://doi.org/10.1093/genetics/iyag123). _**Genetics**_, 233, iyag123. *Co-corresponding author.
 * Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). [SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data](https://doi.org/10.1186/s13059-026-04069-z). _**Genome Biology**_, 27, 182. *Co-corresponding author.
 * Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2026). [Introduction to secure data sharing in primary care using the federated causal learning models](https://informatics.bmj.com/content/33/1/e101543). _**BMJ Health & Care Informatics**_ 33, e101543.
@@ -48,8 +48,10 @@ order: 1
 * Schobel, S. A., Palermo, G., Auinger, P., Long, J. D., **Ma, S.**, Khwaja, O. S., Trundell, D., Cudkowicz, M., Hersch, S., Sampaio, C., Dorsey, E. R., Leavitt, B. R., Kieburtz, K. D., Sevigny, J. J., Langbehn, D. R., Tabrizi, S. J.; TRACK-HD, COHORT, CARE-HD, and 2CARE Huntington Study Group Investigators. (2017) [Motor, cognitive, and functional declines contribute to a single progressive factor in early HD.](https://www.neurology.org/doi/10.1212/WNL.0000000000004743) _**Neurology**_, 89, 2495-2502.
 
 ### TEACHING
+* **Biostatistics (MATH3714)**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2026)
 * **Survival analysis (MATH4705)**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2025)
 * **Biostatistics (STAT6138)**, School of Mathematical Sciences, Shanghai Jiao Tong University (Fall 2024)
+* **Introduction to Clinical Research Methodology**, Shanghai Jiao Tong University School of Medicine (Fall 2026, Guest lecturer)
 * **Introduction to Clinical Research Methodology**, Shanghai Jiao Tong University School of Medicine (Fall 2025, Guest lecturer)
 * **Introduction to Clinical Research Methodology**, Shanghai Jiao Tong University School of Medicine (Fall 2024, Guest lecturer)
 * **Medical Statistics and Clinical Research**, Shanghai Jiao Tong University School of Medicine (Spring 2024, Guest lecturer)
@@ -62,7 +64,7 @@ order: 1
 *  **[GeneScan3D - UK Biobank Gene-based Results](http://www.funlda.com/gs3d)**: Browser of the GeneScan3D gene-based results for 1,403 UK biobank binary phecodes, 42 BioBank Japan binary phenotypes and 5 psychiatric phenotypes.
 
 ### JOURNAL REVIEW
-_Journal of the American Statistical Association_; _Annals of Applied Statistics_; _Statistics in Medicine_; _Briefings in Bioinformatics_; _BMC Medical Research Methodology_; _Statistics in Biopharmaceutical Research_; _Epidemiology and Infection_; _F1000Research_; _Journal of Applied Statistics_;  _Clinical Trials: Journal of the Society for Clinical Trials_; _Journal of Digestive Diseases_; _Biostatistics and Epidemiology_
+_Journal of the American Statistical Association_; _Annals of Applied Statistics_; _Briefings in Bioinformatics_; _Statistics in Medicine_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _BMC Medical Research Methodology_; _Statistics in Biosciences_; _Journal of Applied Statistics_; _Epidemiology and Infection_; _Journal of Digestive Diseases_; _Statistical Theory and Related Fields_; _Biostatistics and Epidemiology_; _F1000Research_
 
 ### INVITED TALKS
 * The 4th Joint Conference on Statistics and Data Science (JCSDS 2026), Guiyang, China (2026/07).
@@ -110,7 +112,7 @@ _Journal of the American Statistical Association_; _Annals of Applied Statistics
 ### PHD STUDENTS
 * Jiaxun Guo, Ph.D. student (Grade 2027)
 * Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (Grade 2026)
-* Bonan Ding, M.D. student, Joint supervised with Prof. Gang Wang (Grade 2025)
+* Bonan Ding, M.D. student, Joint supervised with Prof. Jingyuan Fang (Grade 2025)
       
 ### CONTACT
 Room 709, East 2nd building,
