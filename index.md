@@ -67,6 +67,7 @@ order: 1
 _Journal of the American Statistical Association_; _Annals of Applied Statistics_; _Briefings in Bioinformatics_; _Statistics in Medicine_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _BMC Medical Research Methodology_; _Statistics in Biosciences_; _Journal of Applied Statistics_; _Epidemiology and Infection_; _Journal of Digestive Diseases_; _Statistical Theory and Related Fields_; _Biostatistics and Epidemiology_; _F1000Research_
 
 ### INVITED TALKS
+* School of Mathematics, Sun Yat-sen University, Guangzhou, China (2026/10).
 * The 4th Joint Conference on Statistics and Data Science (JCSDS 2026), Guiyang, China (2026/07).
 * Data Science and Artificial Intelligence Branch of Chinese Association for Applied Statistics, Dongguan, China (2026/07).
 * School of Mathematical Sciences, Shenzhen University, Shenzhen, China (2026/06).
