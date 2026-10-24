@@ -121,4 +121,4 @@ Room 709, East 2nd building,
 Shanghai, 200025, China  
 **Email**: mashiyang1991@sjtu.edu.cn
 
-I am recruiting highly motivated Ph.D. students and postdoctoral researchers. Please email me if you are interested.
+I am looking for highly motivated collaborators and Ph.D. students. Please email me if you are interested.
