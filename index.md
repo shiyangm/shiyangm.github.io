@@ -26,10 +26,12 @@ order: 1
    - Development and application of statistical methods for variable selection and clinical research
      
 ### SELECTED PUBLICATIONS
+* Hu, Y., Xu, H., **Ma, S.**\*, Bi, W.\* and Lin, X.\* (2026). LKOM: Longitudinal Knockoff with Masked Likelihood Ratio for FDR-Controlled Association Discovery. _**bioRxiv**_, doi: 10.64898/2026.10.15.759368. *Co-corresponding author.
+* Chu, Q., Chen, Z., Wu, Y., Feng, Y., **Ma, S.**, Huang, X., Abdukerim, G., Zhang, X., Liu, J., He, G., Dong, D., Yang, J., Bao, R., He, Y. and Hou, X. (2026). Longitudinal patient-reported functioning and survival outcomes during first-line treatment of advanced lung cancer.
 * Bai, Y., Guan, X., Xiong, S., Guo, X., Wang, X., Yi, S., Ju, W., **Ma, S.**, Dong, Q. and Liu, W. (2026). Deciphering spatial cellular organization through RNA-anchored multi-omics deconvolution.
 * Niu, T., Yu, K., Luo, S.\* and **Ma, S.**\* (2026). MARV: MultivAriate exponential family-based SKAT and Burden tests for Rare Variant association analysis. *Co-corresponding author.
 * Wang, Y., Huang, D., **Ma, S.**, Cui, Y., Yuan, X., Gao, R., Sun, X., Xia, Y., Zhang, Y., Li, P. and Yu, Z. (2026). AI-enabled opportunistic screening of cerebral small vessel disease using large-scale routine clinical data.
-* Shen, Y., Wang, T.\* and **Ma, S.**\* (2026). KnockoffPipeline: A Unified R Workflow for Knockoff-Based Genome-Wide Association Analysis. *Corresponding author.
+* Shen, Y., Wang, T. and **Ma, S.**\* (2026). KnockoffPipeline: A Unified R Workflow for Knockoff-Based Genome-Wide Association Analysis. *Corresponding author.
 * Hu, L., Yang, C., Tang, Z., Yan, J., Cheng, H., Bao, L., Ji, J.\*, **Ma, S.**\* and Zhang, T.\* (2026). [Cox-MK: a model-X knockoff method for genome-wide survival association analysis](https://doi.org/10.1093/genetics/iyag123). _**Genetics**_, 233, iyag123. *Co-corresponding author.
 * Huang, S., Ran, Q., Wang, X., Tang, J., Xi, J., **Ma, S.**\* and Xi, R.\* (2026). [SpaNiche: spatial niche analysis to explore colocalization patterns and cellular interactions in spatial transcriptomics data](https://doi.org/10.1186/s13059-026-04069-z). _**Genome Biology**_, 27, 182. *Co-corresponding author.
 * Chen, M., Chang, Z., Gong, P., Tang, Z., Hu, L., Zhang, X., **Ma, S.**, Liao, J., Jiang, X., Li, J., and Zhang, T. (2026). [Introduction to secure data sharing in primary care using the federated causal learning models](https://informatics.bmj.com/content/33/1/e101543). _**BMJ Health & Care Informatics**_ 33, e101543.
@@ -67,6 +69,7 @@ order: 1
 _Journal of the American Statistical Association_; _Annals of Applied Statistics_; _Briefings in Bioinformatics_; _Statistics in Medicine_; _Clinical Trials: Journal of the Society for Clinical Trials_; _Statistics in Biopharmaceutical Research_; _BMC Medical Research Methodology_; _Statistics in Biosciences_; _Journal of Applied Statistics_; _Epidemiology and Infection_; _Journal of Digestive Diseases_; _Statistical Theory and Related Fields_; _Biostatistics and Epidemiology_; _F1000Research_
 
 ### INVITED TALKS
+* The 24th Conference on International Exchange of Professionals, Mathematics and AI $\times$ New Materials, Shanghai, China. November 2026.
 * School of Mathematics, Sun Yat-sen University, Guangzhou, China (2026/10).
 * The 4th Joint Conference on Statistics and Data Science (JCSDS 2026), Guiyang, China (2026/07).
 * Data Science and Artificial Intelligence Branch of Chinese Association for Applied Statistics, Dongguan, China (2026/07).
@@ -111,6 +114,7 @@ _Journal of the American Statistical Association_; _Annals of Applied Statistics
 * The 34th New England Statistics Symposium, Hybrid conference, USA  (2021/10).
 
 ### PHD STUDENTS
+* Rongsheng Hu, Ph.D. student (Grade 2027)
 * Jiaxun Guo, Ph.D. student (Grade 2027)
 * Changle Liu, Ph.D. student, Joint supervised with Prof. Tao Wang (Grade 2026)
 * Bonan Ding, M.D. student, Joint supervised with Prof. Jingyuan Fang (Grade 2025)
@@ -121,4 +125,4 @@ Room 709, East 2nd building,
 Shanghai, 200025, China  
 **Email**: mashiyang1991@sjtu.edu.cn
 
-I am looking for highly motivated collaborators and Ph.D. students. Please email me if you are interested.
+I am looking for collaborators and highly motivated Ph.D. students. Please email me if you are interested.
